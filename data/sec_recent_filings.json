@@ -862,6 +862,13 @@
   "name": "AMAZON COM INC",
   "filings": [
    {
+    "form": "3/A",
+    "date": "2026-10-06",
+    "acc": "0001595602-26-000009",
+    "doc": "xslF345X06/wk-form3a_1791322046.xml",
+    "desc": "FORM 3/A"
+   },
+   {
     "form": "4",
     "date": "2026-10-05",
     "acc": "0001936006-26-000026",
@@ -1133,13 +1140,6 @@
     "acc": "0001104659-26-089294",
     "doc": "tm2617924-1_s4.htm",
     "desc": "S-4"
-   },
-   {
-    "form": "10-Q",
-    "date": "2026-07-31",
-    "acc": "0001018724-26-000026",
-    "doc": "amzn-20260630.htm",
-    "desc": "10-Q"
    }
   ]
  },
@@ -2865,6 +2865,20 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-06",
+    "acc": "0001628280-26-065266",
+    "doc": "xslF345X06/wk-form4_1791321987.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-06",
+    "acc": "0001628280-26-065265",
+    "doc": "xslF345X06/wk-form4_1791321925.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
     "date": "2026-10-05",
     "acc": "0001628280-26-064939",
     "doc": "xslF345X06/wk-form4_1791231688.xml",
@@ -3127,20 +3141,6 @@
     "date": "2026-07-07",
     "acc": "0001628280-26-047472",
     "doc": "xslF345X06/wk-form4_1783454420.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-07-06",
-    "acc": "0001628280-26-047281",
-    "doc": "xslF345X06/wk-form4_1783369325.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-07-02",
-    "acc": "0001628280-26-046874",
-    "doc": "xslF345X06/wk-form4_1783022729.xml",
     "desc": "FORM 4"
    }
   ]
@@ -12874,6 +12874,13 @@
   "name": "VISHAY INTERTECHNOLOGY INC",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-06",
+    "acc": "0001192482-26-000457",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
+   },
+   {
     "form": "144",
     "date": "2026-10-02",
     "acc": "0001628280-26-064507",
@@ -13145,13 +13152,6 @@
     "acc": "0000103730-26-000003",
     "doc": "form8-k.htm",
     "desc": "CURRENT REPORT"
-   },
-   {
-    "form": "4",
-    "date": "2026-01-05",
-    "acc": "0001192482-26-000038",
-    "doc": "xslF345X05/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
   ]
  },
@@ -13446,6 +13446,13 @@
   "name": "Quantinuum Inc.",
   "filings": [
    {
+    "form": "SCHEDULE 13G",
+    "date": "2026-10-06",
+    "acc": "0001104659-26-114121",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "8-K",
     "date": "2026-09-08",
     "acc": "0001628280-26-060934",
@@ -13716,13 +13723,6 @@
     "date": "2026-06-04",
     "acc": "0001628280-26-040983",
     "doc": "xslF345X06/wk-form3_1780615056.xml",
-    "desc": "FORM 3"
-   },
-   {
-    "form": "3",
-    "date": "2026-06-04",
-    "acc": "0001628280-26-040982",
-    "doc": "xslF345X06/wk-form3_1780614965.xml",
     "desc": "FORM 3"
    }
   ]
