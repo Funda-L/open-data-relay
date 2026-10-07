@@ -7154,6 +7154,13 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-07",
+    "acc": "0000950103-26-015324",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "144",
     "date": "2026-10-05",
     "acc": "0001921094-26-001069",
@@ -7424,13 +7431,6 @@
     "date": "2026-08-06",
     "acc": "0001160077-26-000008",
     "doc": "xslF345X06/form4-08072026_010856.xml",
-    "desc": ""
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-08-06",
-    "acc": "0000315066-26-002069",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
     "desc": ""
    }
   ]
