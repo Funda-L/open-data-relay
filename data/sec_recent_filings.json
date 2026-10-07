@@ -4,6 +4,13 @@
   "name": "APPLIED OPTOELECTRONICS, INC.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-07",
+    "acc": "0001683168-26-007698",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": ""
+   },
+   {
     "form": "144",
     "date": "2026-10-05",
     "acc": "0001974078-26-000376",
@@ -273,13 +280,6 @@
     "form": "4",
     "date": "2026-06-16",
     "acc": "0001683168-26-004881",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-06-16",
-    "acc": "0001683168-26-004880",
     "doc": "xslF345X06/ownership.xml",
     "desc": ""
    }
@@ -11158,6 +11158,13 @@
   "name": "Super Micro Computer, Inc.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-10-07",
+    "acc": "0001969223-26-001066",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-09-08",
     "acc": "0001392942-26-000013",
@@ -11428,13 +11435,6 @@
     "date": "2026-07-02",
     "acc": "0001392942-26-000010",
     "doc": "xslF345X06/wk-form4_1783029086.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-07-02",
-    "acc": "0002135314-26-000008",
-    "doc": "xslF345X06/wk-form4_1783025774.xml",
     "desc": "FORM 4"
    }
   ]
