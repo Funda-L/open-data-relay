@@ -290,6 +290,20 @@
   "name": "ANALOG DEVICES INC",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-07",
+    "acc": "0002009110-26-000011",
+    "doc": "xslF345X06/wk-form4_1791406391.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "144",
+    "date": "2026-10-07",
+    "acc": "0001959173-26-007309",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "144",
     "date": "2026-10-06",
     "acc": "0001959173-26-007287",
@@ -554,20 +568,6 @@
     "acc": "0001744712-26-000005",
     "doc": "xslF345X06/wk-form4_1784061909.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "144",
-    "date": "2026-07-13",
-    "acc": "0001959173-26-005203",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-07-09",
-    "acc": "0000900729-26-000012",
-    "doc": "xslF345X06/wk-form4_1783628487.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -575,6 +575,13 @@
   "cik": "0001736297",
   "name": "Astera Labs, Inc.",
   "filings": [
+   {
+    "form": "144",
+    "date": "2026-10-07",
+    "acc": "0001973251-26-000040",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
    {
     "form": "SCHEDULE 13G/A",
     "date": "2026-10-07",
@@ -845,13 +852,6 @@
     "form": "144",
     "date": "2026-05-26",
     "acc": "0001950047-26-005056",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-05-22",
-    "acc": "0001950047-26-004957",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
@@ -2865,6 +2865,20 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-07",
+    "acc": "0001628280-26-065347",
+    "doc": "xslF345X06/wk-form4_1791406514.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-07",
+    "acc": "0001628280-26-065346",
+    "doc": "xslF345X06/wk-form4_1791406499.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
     "date": "2026-10-06",
     "acc": "0001628280-26-065266",
     "doc": "xslF345X06/wk-form4_1791321987.xml",
@@ -3127,20 +3141,6 @@
     "date": "2026-07-07",
     "acc": "0001628280-26-047475",
     "doc": "xslF345X06/wk-form4_1783454466.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-07-07",
-    "acc": "0001628280-26-047473",
-    "doc": "xslF345X06/wk-form4_1783454440.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-07-07",
-    "acc": "0001628280-26-047472",
-    "doc": "xslF345X06/wk-form4_1783454420.xml",
     "desc": "FORM 4"
    }
   ]
@@ -4867,6 +4867,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-07",
+    "acc": "0001648401-26-000011",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
+   },
+   {
+    "form": "4",
     "date": "2026-10-02",
     "acc": "0001023219-26-000015",
     "doc": "xslF345X06/form4.xml",
@@ -5135,13 +5142,6 @@
     "form": "4",
     "date": "2026-05-05",
     "acc": "0001023219-26-000011",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-05",
-    "acc": "0001166598-26-000006",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
