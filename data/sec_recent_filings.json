@@ -3722,6 +3722,48 @@
   "name": "Dell Technologies Inc.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-10-06",
+    "acc": "0001193125-26-416015",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-10-06",
+    "acc": "0001193125-26-415996",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-10-06",
+    "acc": "0001193125-26-415995",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-10-06",
+    "acc": "0001193125-26-415994",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-10-06",
+    "acc": "0001193125-26-415992",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-10-06",
+    "acc": "0001193125-26-415991",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-05",
     "acc": "0001082870-26-000010",
@@ -3958,48 +4000,6 @@
     "acc": "0001193125-26-394725",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-09-17",
-    "acc": "0001193125-26-394724",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-09-17",
-    "acc": "0001193125-26-394722",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-09-17",
-    "acc": "0001193125-26-394720",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-09-17",
-    "acc": "0001193125-26-394676",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-09-17",
-    "acc": "0001193125-26-394630",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-17",
-    "acc": "0001193125-26-394614",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
    }
   ]
  },
