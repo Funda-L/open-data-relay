@@ -576,6 +576,13 @@
   "name": "Astera Labs, Inc.",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-10-07",
+    "acc": "0000315066-26-002348",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-09-03",
     "acc": "0001484394-26-000011",
@@ -847,13 +854,6 @@
     "acc": "0001950047-26-004957",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-05-21",
-    "acc": "0001998179-26-000019",
-    "doc": "xslF345X06/wk-form4_1779408121.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -9156,6 +9156,13 @@
   "name": "ON SEMICONDUCTOR CORP",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-10-07",
+    "acc": "0000315066-26-002346",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-02",
     "acc": "0001225208-26-008134",
@@ -9427,13 +9434,6 @@
     "acc": "0001950047-26-004583",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "8-K",
-    "date": "2026-05-12",
-    "acc": "0001140361-26-020642",
-    "doc": "ef20072923_8k.htm",
-    "desc": "8-K"
    }
   ]
  },
