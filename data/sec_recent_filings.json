@@ -8298,6 +8298,13 @@
   "name": "Nebius Group N.V.",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-10-07",
+    "acc": "0000886982-26-000526",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-06",
     "acc": "0001513845-26-000126",
@@ -8569,13 +8576,6 @@
     "acc": "0001045810-26-000062",
     "doc": "xslSCHEDULE_13G_X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "6-K/A",
-    "date": "2026-07-17",
-    "acc": "0001104659-26-084606",
-    "doc": "tm2620779d1_6ka.htm",
-    "desc": "FORM 6-K/A"
    }
   ]
  },
