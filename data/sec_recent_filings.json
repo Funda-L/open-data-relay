@@ -2864,6 +2864,13 @@
   "name": "Credo Technology Group Holding Ltd",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-10-08",
+    "acc": "0001958244-26-000651",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-07",
     "acc": "0001628280-26-065347",
@@ -3135,13 +3142,6 @@
     "acc": "0001950047-26-006938",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-07-07",
-    "acc": "0001628280-26-047475",
-    "doc": "xslF345X06/wk-form4_1783454466.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -3436,6 +3436,20 @@
   "name": "CoreWeave, Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-08",
+    "acc": "0001769628-26-000447",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-08",
+    "acc": "0001769628-26-000446",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "144",
     "date": "2026-10-06",
     "acc": "0001950047-26-010081",
@@ -3700,20 +3714,6 @@
     "acc": "0001769628-26-000417",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "144",
-    "date": "2026-09-08",
-    "acc": "0001950047-26-009196",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-09-08",
-    "acc": "0001950047-26-009191",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -5438,6 +5438,13 @@
   "name": "INTERNATIONAL BUSINESS MACHINES CORP",
   "filings": [
    {
+    "form": "3",
+    "date": "2026-10-08",
+    "acc": "0001441756-26-000003",
+    "doc": "xslF345X06/primarydocument.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "4",
     "date": "2026-10-01",
     "acc": "0001630253-26-000005",
@@ -5709,13 +5716,6 @@
     "acc": "0000051143-26-000061",
     "doc": "ibm-20260622.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-04",
-    "acc": "0001875415-26-000005",
-    "doc": "xslF345X06/primarydocument.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
