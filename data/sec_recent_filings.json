@@ -2864,6 +2864,13 @@
   "name": "Credo Technology Group Holding Ltd",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-09",
+    "acc": "0001628280-26-065523",
+    "doc": "xslF345X06/wk-form4_1791576067.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "144",
     "date": "2026-10-08",
     "acc": "0001958244-26-000651",
@@ -3133,13 +3140,6 @@
     "form": "144",
     "date": "2026-07-08",
     "acc": "0001950047-26-006956",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-07-07",
-    "acc": "0001950047-26-006938",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
