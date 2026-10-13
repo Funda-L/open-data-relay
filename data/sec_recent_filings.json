@@ -2879,6 +2879,13 @@
    },
    {
     "form": "4",
+    "date": "2026-10-13",
+    "acc": "0001628280-26-065684",
+    "doc": "xslF345X06/wk-form4_1791921670.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
     "date": "2026-10-09",
     "acc": "0001628280-26-065523",
     "doc": "xslF345X06/wk-form4_1791576067.xml",
@@ -3134,13 +3141,6 @@
     "date": "2026-07-15",
     "acc": "0001628280-26-048329",
     "doc": "xslF345X06/wk-form4_1784146036.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-07-13",
-    "acc": "0001628280-26-047992",
-    "doc": "xslF345X06/wk-form4_1783972698.xml",
     "desc": "FORM 4"
    }
   ]
@@ -4296,6 +4296,20 @@
    {
     "form": "DEFA14A",
     "date": "2026-10-13",
+    "acc": "0001104659-26-115503",
+    "doc": "tm2627474d2_defa14a.htm",
+    "desc": "DEFA14A"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-10-13",
+    "acc": "0001104659-26-115502",
+    "doc": "tm2627474d1_8k.htm",
+    "desc": "FORM 8-K"
+   },
+   {
+    "form": "DEFA14A",
+    "date": "2026-10-13",
     "acc": "0001193125-26-419604",
     "doc": "d176927ddefa14a.htm",
     "desc": "DEFA14A"
@@ -4558,20 +4572,6 @@
     "acc": "0000866374-26-000033",
     "doc": "flex-20260805.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-08-06",
-    "acc": "0000763212-26-000024",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "SCHEDULE 13G",
-    "date": "2026-08-06",
-    "acc": "0000315066-26-002030",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -8298,6 +8298,13 @@
   "name": "Nebius Group N.V.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-13",
+    "acc": "0001513845-26-000128",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "SCHEDULE 13G/A",
     "date": "2026-10-07",
     "acc": "0000886982-26-000526",
@@ -8569,13 +8576,6 @@
     "acc": "0001513845-26-000086",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "SCHEDULE 13G",
-    "date": "2026-07-20",
-    "acc": "0001045810-26-000062",
-    "doc": "xslSCHEDULE_13G_X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
