@@ -7727,6 +7727,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-14",
+    "acc": "0000789019-26-000226",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
+   },
+   {
+    "form": "4",
     "date": "2026-09-17",
     "acc": "0000789019-26-000224",
     "doc": "xslF345X06/form4.xml",
@@ -7995,13 +8002,6 @@
     "form": "4",
     "date": "2026-09-01",
     "acc": "0000789019-26-000156",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-01",
-    "acc": "0000789019-26-000155",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
