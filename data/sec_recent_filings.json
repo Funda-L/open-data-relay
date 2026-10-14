@@ -4,6 +4,13 @@
   "name": "APPLIED OPTOELECTRONICS, INC.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-14",
+    "acc": "0001683168-26-007844",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": ""
+   },
+   {
     "form": "144",
     "date": "2026-10-13",
     "acc": "0001974078-26-000378",
@@ -275,13 +282,6 @@
     "acc": "0001683168-26-004885",
     "doc": "aaoi_8k.htm",
     "desc": "FORM 8-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-16",
-    "acc": "0001683168-26-004882",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": ""
    }
   ]
  },
@@ -4296,6 +4296,13 @@
    {
     "form": "DEFA14A",
     "date": "2026-10-14",
+    "acc": "0001193125-26-421681",
+    "doc": "d146859ddefa14a.htm",
+    "desc": "DEFA14A"
+   },
+   {
+    "form": "DEFA14A",
+    "date": "2026-10-14",
     "acc": "0001193125-26-421059",
     "doc": "d147467ddefa14a.htm",
     "desc": "DEFA14A"
@@ -4564,13 +4571,6 @@
     "date": "2026-08-07",
     "acc": "0001645325-26-000008",
     "doc": "xslF345X06/wk-form4_1786149472.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-07",
-    "acc": "0001573338-26-000013",
-    "doc": "xslF345X06/wk-form4_1786149400.xml",
     "desc": "FORM 4"
    }
   ]
