@@ -3436,6 +3436,20 @@
   "name": "CoreWeave, Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-14",
+    "acc": "0001769628-26-000449",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-14",
+    "acc": "0001769628-26-000448",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "144",
     "date": "2026-10-13",
     "acc": "0001950047-26-010205",
@@ -3698,20 +3712,6 @@
     "form": "144",
     "date": "2026-09-15",
     "acc": "0001950047-26-009514",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-09-15",
-    "acc": "0001950047-26-009509",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-09-14",
-    "acc": "0001950047-26-009453",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
