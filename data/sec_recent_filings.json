@@ -1720,6 +1720,13 @@
   "name": "ARROW ELECTRONICS, INC.",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-10-15",
+    "acc": "0001104659-26-116236",
+    "doc": "tm2627625d1_8k.htm",
+    "desc": "FORM 8-K"
+   },
+   {
     "form": "4",
     "date": "2026-10-02",
     "acc": "0000007536-26-000146",
@@ -1991,13 +1998,6 @@
     "acc": "0001959173-26-003543",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-05-08",
-    "acc": "0000007536-26-000086",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
