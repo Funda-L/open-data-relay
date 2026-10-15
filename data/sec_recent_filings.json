@@ -7727,6 +7727,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-15",
+    "acc": "0000789019-26-000228",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
+   },
+   {
+    "form": "4",
     "date": "2026-10-14",
     "acc": "0000789019-26-000226",
     "doc": "xslF345X06/form4.xml",
@@ -7995,13 +8002,6 @@
     "form": "4",
     "date": "2026-09-01",
     "acc": "0000789019-26-000157",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-01",
-    "acc": "0000789019-26-000156",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
@@ -11444,6 +11444,13 @@
   "name": "SEMTECH CORP",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-10-15",
+    "acc": "0000088941-26-000041",
+    "doc": "smtc-20261015.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-10-09",
     "acc": "0001801730-26-000018",
@@ -11715,13 +11722,6 @@
     "acc": "0001801730-26-000014",
     "doc": "xslF345X06/wk-form4_1783630179.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "144",
-    "date": "2026-07-08",
-    "acc": "0001969223-26-000772",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
