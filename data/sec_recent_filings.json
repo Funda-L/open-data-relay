@@ -8298,6 +8298,13 @@
   "name": "Nebius Group N.V.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-16",
+    "acc": "0001513845-26-000130",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "144",
     "date": "2026-10-15",
     "acc": "0001950047-26-010270",
@@ -8569,13 +8576,6 @@
     "acc": "0001513845-26-000088",
     "doc": "xslF345X06/form4a.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "6-K",
-    "date": "2026-07-27",
-    "acc": "0001104659-26-087080",
-    "doc": "tm2621374d1_6k.htm",
-    "desc": "FORM 6-K"
    }
   ]
  },
