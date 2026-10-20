@@ -8299,6 +8299,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-20",
+    "acc": "0001513845-26-000134",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
     "date": "2026-10-19",
     "acc": "0001513845-26-000132",
     "doc": "xslF345X06/form4.xml",
@@ -8567,13 +8574,6 @@
     "form": "SCHEDULE 13G/A",
     "date": "2026-08-07",
     "acc": "0000886982-26-000308",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "SCHEDULE 13G",
-    "date": "2026-08-07",
-    "acc": "0000886982-26-000305",
     "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
     "desc": ""
    }
