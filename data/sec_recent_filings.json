@@ -2864,6 +2864,13 @@
   "name": "Credo Technology Group Holding Ltd",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-21",
+    "acc": "0001628280-26-066716",
+    "doc": "xslF345X06/wk-form4_1792613628.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "8-K",
     "date": "2026-10-16",
     "acc": "0001628280-26-066139",
@@ -3134,13 +3141,6 @@
     "date": "2026-08-04",
     "acc": "0001628280-26-052758",
     "doc": "xslF345X06/wk-form4_1785879245.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-04",
-    "acc": "0001628280-26-052757",
-    "doc": "xslF345X06/wk-form4_1785879216.xml",
     "desc": "FORM 4"
    }
   ]
@@ -7154,6 +7154,20 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "PRE 14C",
+    "date": "2026-10-21",
+    "acc": "0001628280-26-066710",
+    "doc": "meta-20261021.htm",
+    "desc": "PRE 14C"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-10-21",
+    "acc": "0001628280-26-066700",
+    "doc": "meta-20261019.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "144",
     "date": "2026-10-19",
     "acc": "0001921094-26-001104",
@@ -7416,20 +7430,6 @@
     "form": "144",
     "date": "2026-08-18",
     "acc": "0001921094-26-000900",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-08-18",
-    "acc": "0001921094-26-000899",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-08-18",
-    "acc": "0001921094-26-000898",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
@@ -7726,6 +7726,13 @@
   "name": "MICROSOFT CORP",
   "filings": [
    {
+    "form": "DEF 14A",
+    "date": "2026-10-21",
+    "acc": "0001193125-26-427849",
+    "doc": "d61756ddef14a.htm",
+    "desc": "DEF 14A"
+   },
+   {
     "form": "4",
     "date": "2026-10-15",
     "acc": "0000789019-26-000228",
@@ -7995,13 +8002,6 @@
     "form": "4",
     "date": "2026-09-01",
     "acc": "0000789019-26-000158",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-01",
-    "acc": "0000789019-26-000157",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
@@ -8299,6 +8299,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-21",
+    "acc": "0001513845-26-000136",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
     "date": "2026-10-20",
     "acc": "0001513845-26-000134",
     "doc": "xslF345X06/form4.xml",
@@ -8569,13 +8576,6 @@
     "acc": "0001104659-26-094568",
     "doc": "tm2622968d1_6k.htm",
     "desc": "FORM 6-K"
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-08-07",
-    "acc": "0000886982-26-000308",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -12016,6 +12016,13 @@
   "name": "TEXAS INSTRUMENTS INC",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-10-21",
+    "acc": "0000097476-26-000165",
+    "doc": "txn-20261021.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-09-21",
     "acc": "0000097476-26-000161",
@@ -12285,13 +12292,6 @@
     "form": "144",
     "date": "2026-04-27",
     "acc": "0001969223-26-000468",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-04-24",
-    "acc": "0001969223-26-000467",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
