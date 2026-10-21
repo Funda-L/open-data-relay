@@ -290,6 +290,13 @@
   "name": "ANALOG DEVICES INC",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-21",
+    "acc": "0000006281-26-000081",
+    "doc": "xslF345X06/wk-form4_1792616308.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "144",
     "date": "2026-10-20",
     "acc": "0001959173-26-007429",
@@ -561,13 +568,6 @@
     "acc": "0000006281-26-000073",
     "doc": "adi-20260801.htm",
     "desc": "10-Q"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-08-19",
-    "acc": "0000006281-26-000072",
-    "doc": "adi-20260819.htm",
-    "desc": "8-K"
    }
   ]
  },
@@ -3150,6 +3150,13 @@
   "name": "CIRRUS LOGIC, INC.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-21",
+    "acc": "0001777830-26-000020",
+    "doc": "xslF345X06/wk-form4_1792615274.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "8-K",
     "date": "2026-10-13",
     "acc": "0000772406-26-000047",
@@ -3421,13 +3428,6 @@
     "acc": "0000772406-26-000017",
     "doc": "crus2025formsd.htm",
     "desc": "SD"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-21",
-    "acc": "0001192890-26-000004",
-    "doc": "xslF345X06/wk-form4_1779394207.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -3722,6 +3722,13 @@
   "name": "Dell Technologies Inc.",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-10-21",
+    "acc": "0001193125-26-427920",
+    "doc": "d163575d8k.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-10-19",
     "acc": "0001193125-26-425368",
@@ -3991,13 +3998,6 @@
     "form": "4",
     "date": "2026-09-22",
     "acc": "0001193125-26-397994",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-22",
-    "acc": "0001193125-26-397993",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
    }
@@ -5438,6 +5438,13 @@
   "name": "INTERNATIONAL BUSINESS MACHINES CORP",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-10-21",
+    "acc": "0000051143-26-000093",
+    "doc": "ibm-20261021.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "3",
     "date": "2026-10-08",
     "acc": "0001441756-26-000003",
@@ -5709,13 +5716,6 @@
     "acc": "0000051143-26-000064",
     "doc": "ibm-20260626.htm",
     "desc": "11-K"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-06-23",
-    "acc": "0000051143-26-000061",
-    "doc": "ibm-20260622.htm",
-    "desc": "8-K"
    }
   ]
  },
@@ -7726,6 +7726,20 @@
   "name": "MICROSOFT CORP",
   "filings": [
    {
+    "form": "ARS",
+    "date": "2026-10-21",
+    "acc": "0001193125-26-427876",
+    "doc": "d62902dars.pdf",
+    "desc": "ARS"
+   },
+   {
+    "form": "DEFA14A",
+    "date": "2026-10-21",
+    "acc": "0001193125-26-427867",
+    "doc": "d65906ddefa14a.htm",
+    "desc": "DEFA14A"
+   },
+   {
     "form": "DEF 14A",
     "date": "2026-10-21",
     "acc": "0001193125-26-427849",
@@ -7990,20 +8004,6 @@
     "acc": "0001193125-26-380280",
     "doc": "d291965d8k.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-01",
-    "acc": "0000789019-26-000159",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-01",
-    "acc": "0000789019-26-000158",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
   ]
  },
@@ -11730,6 +11730,13 @@
   "name": "TD SYNNEX CORP",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-21",
+    "acc": "0001177394-26-000134",
+    "doc": "xslF345X06/wk-form4_1792614064.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "144",
     "date": "2026-10-20",
     "acc": "0001950047-26-010331",
@@ -12001,13 +12008,6 @@
     "acc": "0001177394-26-000070",
     "doc": "xslF345X06/wk-form4_1782851653.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "144",
-    "date": "2026-06-30",
-    "acc": "0001950047-26-006642",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
