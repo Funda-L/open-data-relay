@@ -4866,6 +4866,13 @@
   "name": "Hewlett Packard Enterprise Co",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-10-21",
+    "acc": "0001958244-26-000670",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-07",
     "acc": "0001648401-26-000011",
@@ -5135,13 +5142,6 @@
     "form": "4",
     "date": "2026-05-06",
     "acc": "0001656326-26-000004",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-05",
-    "acc": "0001023219-26-000011",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
@@ -7168,6 +7168,13 @@
     "desc": "8-K"
    },
    {
+    "form": "4",
+    "date": "2026-10-21",
+    "acc": "0000950103-26-015980",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "144",
     "date": "2026-10-19",
     "acc": "0001921094-26-001104",
@@ -7425,13 +7432,6 @@
     "acc": "0000950103-26-012599",
     "doc": "xslF345X06/ownership.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "144",
-    "date": "2026-08-18",
-    "acc": "0001921094-26-000900",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -11730,6 +11730,13 @@
   "name": "TD SYNNEX CORP",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-10-21",
+    "acc": "0001950047-26-010352",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-21",
     "acc": "0001177394-26-000134",
@@ -12000,13 +12007,6 @@
     "date": "2026-07-01",
     "acc": "0001177394-26-000072",
     "doc": "xslF345X06/wk-form4_1782936667.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-30",
-    "acc": "0001177394-26-000070",
-    "doc": "xslF345X06/wk-form4_1782851653.xml",
     "desc": "FORM 4"
    }
   ]
