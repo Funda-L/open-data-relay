@@ -3722,6 +3722,13 @@
   "name": "Dell Technologies Inc.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-10-22",
+    "acc": "0001959173-26-007448",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "8-K",
     "date": "2026-10-21",
     "acc": "0001193125-26-427920",
@@ -3993,13 +4000,6 @@
     "acc": "0001193125-26-399887",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-09-22",
-    "acc": "0001193125-26-397994",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
    }
   ]
  },
