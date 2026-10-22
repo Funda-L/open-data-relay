@@ -5438,6 +5438,13 @@
   "name": "INTERNATIONAL BUSINESS MACHINES CORP",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-10-22",
+    "acc": "0000051143-26-000095",
+    "doc": "ibm-20260930.htm",
+    "desc": "10-Q"
+   },
+   {
     "form": "8-K",
     "date": "2026-10-21",
     "acc": "0000051143-26-000093",
@@ -5709,13 +5716,6 @@
     "acc": "0001804183-26-000011",
     "doc": "xslF345X06/primarydocument.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "11-K",
-    "date": "2026-06-26",
-    "acc": "0000051143-26-000064",
-    "doc": "ibm-20260626.htm",
-    "desc": "11-K"
    }
   ]
  },
@@ -7154,6 +7154,13 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-10-22",
+    "acc": "0001628280-26-066773",
+    "doc": "meta-20260930.htm",
+    "desc": "10-Q"
+   },
+   {
     "form": "4",
     "date": "2026-10-21",
     "acc": "0000950103-26-015980",
@@ -7423,13 +7430,6 @@
     "form": "4",
     "date": "2026-08-18",
     "acc": "0000950103-26-012600",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-18",
-    "acc": "0000950103-26-012599",
     "doc": "xslF345X06/ownership.xml",
     "desc": "FORM 4"
    }
