@@ -8013,6 +8013,41 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-23",
+    "acc": "0000904454-26-000539",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-23",
+    "acc": "0000904454-26-000537",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-23",
+    "acc": "0000904454-26-000535",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-23",
+    "acc": "0000904454-26-000534",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-23",
+    "acc": "0000904454-26-000531",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
     "date": "2026-10-05",
     "acc": "0000904454-26-000506",
     "doc": "xslF345X06/edgar.xml",
@@ -8253,41 +8288,6 @@
     "form": "144",
     "date": "2026-05-06",
     "acc": "0001193125-26-209528",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-05-06",
-    "acc": "0000315066-26-001271",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-05-05",
-    "acc": "0001193125-26-207204",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-05-04",
-    "acc": "0000904454-26-000250",
-    "doc": "xslF345X06/edgar.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "144",
-    "date": "2026-04-30",
-    "acc": "0001950047-26-003860",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-04-24",
-    "acc": "0001193125-26-178059",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
