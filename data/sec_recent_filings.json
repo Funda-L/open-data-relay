@@ -3437,6 +3437,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-22",
+    "acc": "0001769628-26-000450",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
     "date": "2026-10-14",
     "acc": "0001769628-26-000449",
     "doc": "xslF345X06/form4.xml",
@@ -3707,13 +3714,6 @@
     "acc": "0001769628-26-000426",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "144",
-    "date": "2026-09-15",
-    "acc": "0001950047-26-009514",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
