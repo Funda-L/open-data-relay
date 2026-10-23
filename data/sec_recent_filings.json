@@ -4294,6 +4294,13 @@
   "name": "FLEX LTD.",
   "filings": [
    {
+    "form": "DEFA14A",
+    "date": "2026-10-23",
+    "acc": "0001193125-26-430478",
+    "doc": "d97093ddefa14a.htm",
+    "desc": "DEFA14A"
+   },
+   {
     "form": "4",
     "date": "2026-10-19",
     "acc": "0001233433-26-000008",
@@ -4564,13 +4571,6 @@
     "date": "2026-08-07",
     "acc": "0001233433-26-000006",
     "doc": "xslF345X06/wk-form4_1786150413.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-07",
-    "acc": "0001436125-26-000007",
-    "doc": "xslF345X06/wk-form4_1786150341.xml",
     "desc": "FORM 4"
    }
   ]
@@ -4866,6 +4866,13 @@
   "name": "Hewlett Packard Enterprise Co",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-23",
+    "acc": "0001560849-26-000013",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
+   },
+   {
     "form": "144",
     "date": "2026-10-21",
     "acc": "0001958244-26-000670",
@@ -5137,13 +5144,6 @@
     "acc": "0001645590-26-000045",
     "doc": "hpe-20260513.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-06",
-    "acc": "0001656326-26-000004",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
   ]
  },
@@ -10872,6 +10872,13 @@
   "name": "SITIME Corp",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-10-23",
+    "acc": "0001451809-26-000070",
+    "doc": "sitm-20261019.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-10-06",
     "acc": "0001834679-26-000019",
@@ -11141,13 +11148,6 @@
     "form": "144",
     "date": "2026-06-12",
     "acc": "0001950047-26-006037",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-06-11",
-    "acc": "0001950047-26-005927",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
@@ -11731,6 +11731,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-23",
+    "acc": "0001177394-26-000138",
+    "doc": "xslF345X06/wk-form4_1792786619.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
     "date": "2026-10-22",
     "acc": "0001177394-26-000136",
     "doc": "xslF345X06/wk-form4_1792700253.xml",
@@ -12001,13 +12008,6 @@
     "acc": "0001177394-26-000074",
     "doc": "xslF345X06/wk-form4_1783370609.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-07-02",
-    "acc": "0001628280-26-046896",
-    "doc": "snx-20260626.htm",
-    "desc": "8-K"
    }
   ]
  },
