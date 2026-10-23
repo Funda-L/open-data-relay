@@ -11730,18 +11730,18 @@
   "name": "TD SYNNEX CORP",
   "filings": [
    {
-    "form": "144",
-    "date": "2026-10-22",
-    "acc": "0001950047-26-010362",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
     "form": "4",
     "date": "2026-10-22",
     "acc": "0001177394-26-000136",
     "doc": "xslF345X06/wk-form4_1792700253.xml",
     "desc": "FORM 4"
+   },
+   {
+    "form": "144",
+    "date": "2026-10-22",
+    "acc": "0001950047-26-010362",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
    },
    {
     "form": "144",
