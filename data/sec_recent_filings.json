@@ -3438,6 +3438,13 @@
    {
     "form": "4",
     "date": "2026-10-22",
+    "acc": "0001769628-26-000451",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-22",
     "acc": "0001769628-26-000450",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
@@ -3705,13 +3712,6 @@
     "form": "4",
     "date": "2026-09-16",
     "acc": "0001769628-26-000427",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-15",
-    "acc": "0001769628-26-000426",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
    }
