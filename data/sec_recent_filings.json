@@ -5,6 +5,41 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-26",
+    "acc": "0001683168-26-008092",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-10-26",
+    "acc": "0001683168-26-008091",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-10-26",
+    "acc": "0001683168-26-008090",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-10-26",
+    "acc": "0001683168-26-008089",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-10-26",
+    "acc": "0001683168-26-008088",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
     "date": "2026-10-14",
     "acc": "0001683168-26-007844",
     "doc": "xslF345X06/ownership.xml",
@@ -245,41 +280,6 @@
     "form": "8-K",
     "date": "2026-07-01",
     "acc": "0001683168-26-005221",
-    "doc": "aaoi_8k.htm",
-    "desc": "FORM 8-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-18",
-    "acc": "0001683168-26-004979",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-06-18",
-    "acc": "0001683168-26-004977",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-06-18",
-    "acc": "0001974078-26-000252",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-06-17",
-    "acc": "0001974078-26-000250",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "8-K",
-    "date": "2026-06-16",
-    "acc": "0001683168-26-004885",
     "doc": "aaoi_8k.htm",
     "desc": "FORM 8-K"
    }
@@ -3722,6 +3722,13 @@
   "name": "Dell Technologies Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-26",
+    "acc": "0001662205-26-000021",
+    "doc": "xslF345X06/wk-form4_1793045263.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "144",
     "date": "2026-10-22",
     "acc": "0001959173-26-007448",
@@ -3993,13 +4000,6 @@
     "acc": "0001662205-26-000014",
     "doc": "xslF345X06/wk-form4_1790280501.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "144",
-    "date": "2026-09-23",
-    "acc": "0001193125-26-399887",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -7726,6 +7726,13 @@
   "name": "MICROSOFT CORP",
   "filings": [
    {
+    "form": "PX14A6G",
+    "date": "2026-10-26",
+    "acc": "0001214659-26-013218",
+    "doc": "b1026263px14a6g.htm",
+    "desc": ""
+   },
+   {
     "form": "ARS",
     "date": "2026-10-21",
     "acc": "0001193125-26-427876",
@@ -7997,13 +8004,6 @@
     "acc": "0000789019-26-000161",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-09-02",
-    "acc": "0001193125-26-380280",
-    "doc": "d291965d8k.htm",
-    "desc": "8-K"
    }
   ]
  },
