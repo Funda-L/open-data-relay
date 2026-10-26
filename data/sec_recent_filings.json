@@ -2578,6 +2578,20 @@
   "name": "CELESTICA INC",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-10-26",
+    "acc": "0001030894-26-000050",
+    "doc": "cls-20260930.htm",
+    "desc": "10-Q"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-10-26",
+    "acc": "0001030894-26-000049",
+    "doc": "cls-20261026.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-10-01",
     "acc": "0001193125-26-410716",
@@ -2842,20 +2856,6 @@
     "acc": "0001193125-26-274663",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-17",
-    "acc": "0001193125-26-274659",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "144",
-    "date": "2026-06-15",
-    "acc": "0001193125-26-271232",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -7154,6 +7154,20 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-10-26",
+    "acc": "0001921094-26-001117",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-10-26",
+    "acc": "0001921094-26-001116",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "424B5",
     "date": "2026-10-26",
     "acc": "0001193125-26-431043",
@@ -7416,20 +7430,6 @@
     "form": "4",
     "date": "2026-08-18",
     "acc": "0000950103-26-012607",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-18",
-    "acc": "0000950103-26-012606",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-18",
-    "acc": "0000950103-26-012605",
     "doc": "xslF345X06/ownership.xml",
     "desc": "FORM 4"
    }
@@ -8012,6 +8012,13 @@
   "name": "MACOM Technology Solutions Holdings, Inc.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-10-26",
+    "acc": "0001950047-26-010412",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-23",
     "acc": "0000904454-26-000539",
@@ -8283,13 +8290,6 @@
     "acc": "0001493594-26-000024",
     "doc": "mtsi-20260507.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "144",
-    "date": "2026-05-06",
-    "acc": "0001193125-26-209528",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -8297,6 +8297,13 @@
   "cik": "0001513845",
   "name": "Nebius Group N.V.",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-10-26",
+    "acc": "0001513845-26-000141",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
    {
     "form": "6-K",
     "date": "2026-10-22",
@@ -8569,13 +8576,6 @@
     "acc": "0001973379-26-000293",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "6-K",
-    "date": "2026-08-12",
-    "acc": "0001104659-26-094844",
-    "doc": "nbis-20260812x6k.htm",
-    "desc": "6-K"
    }
   ]
  },
@@ -12016,6 +12016,13 @@
   "name": "TEXAS INSTRUMENTS INC",
   "filings": [
    {
+    "form": "FWP",
+    "date": "2026-10-26",
+    "acc": "0001193125-26-432176",
+    "doc": "d161660dfwp.htm",
+    "desc": "FWP"
+   },
+   {
     "form": "424B5",
     "date": "2026-10-26",
     "acc": "0001193125-26-431173",
@@ -12286,13 +12293,6 @@
     "date": "2026-04-27",
     "acc": "0000097476-26-000111",
     "doc": "xslF345X06/wk-form4_1777321879.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-04-27",
-    "acc": "0000097476-26-000110",
-    "doc": "xslF345X06/wk-form4_1777321873.xml",
     "desc": "FORM 4"
    }
   ]
