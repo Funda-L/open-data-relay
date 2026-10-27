@@ -13446,6 +13446,13 @@
   "name": "Quantinuum Inc.",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-10-27",
+    "acc": "0002052113-26-001105",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "SCHEDULE 13G",
     "date": "2026-10-06",
     "acc": "0001104659-26-114121",
@@ -13716,13 +13723,6 @@
     "date": "2026-06-04",
     "acc": "0001628280-26-040984",
     "doc": "xslF345X06/wk-form3_1780615062.xml",
-    "desc": "FORM 3"
-   },
-   {
-    "form": "3",
-    "date": "2026-06-04",
-    "acc": "0001628280-26-040983",
-    "doc": "xslF345X06/wk-form3_1780615056.xml",
     "desc": "FORM 3"
    }
   ]
