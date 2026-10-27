@@ -4,6 +4,13 @@
   "name": "APPLIED OPTOELECTRONICS, INC.",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-10-27",
+    "acc": "0002012383-26-003755",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-26",
     "acc": "0001683168-26-008092",
@@ -275,13 +282,6 @@
     "acc": "0001974078-26-000269",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "8-K",
-    "date": "2026-07-01",
-    "acc": "0001683168-26-005221",
-    "doc": "aaoi_8k.htm",
-    "desc": "FORM 8-K"
    }
   ]
  },
@@ -289,6 +289,13 @@
   "cik": "0000006281",
   "name": "ANALOG DEVICES INC",
   "filings": [
+   {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-10-27",
+    "acc": "0002012383-26-003874",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
    {
     "form": "4",
     "date": "2026-10-21",
@@ -561,13 +568,6 @@
     "acc": "0000006281-26-000075",
     "doc": "xslF345X06/wk-form4_1787170770.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "10-Q",
-    "date": "2026-08-19",
-    "acc": "0000006281-26-000073",
-    "doc": "adi-20260801.htm",
-    "desc": "10-Q"
    }
   ]
  },
@@ -2292,6 +2292,13 @@
   "name": "Bloom Energy Corp",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-10-27",
+    "acc": "0002012383-26-003880",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "10-Q",
     "date": "2026-10-22",
     "acc": "0001628280-26-066931",
@@ -2563,13 +2570,6 @@
     "acc": "0001950047-26-006749",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "8-K/A",
-    "date": "2026-06-22",
-    "acc": "0001193125-26-277682",
-    "doc": "d168613d8ka.htm",
-    "desc": "8-K/A"
    }
   ]
  },
@@ -6010,6 +6010,13 @@
   "name": "IonQ, Inc.",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-10-27",
+    "acc": "0002012383-26-003800",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "8-K",
     "date": "2026-10-16",
     "acc": "0001193125-26-424230",
@@ -6281,13 +6288,6 @@
     "acc": "0001950047-26-006313",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-06-15",
-    "acc": "0001193125-26-271591",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -6295,6 +6295,76 @@
   "cik": "0000898293",
   "name": "JABIL INC",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001225208-26-008536",
+    "doc": "xslF345X06/doc4.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001225208-26-008535",
+    "doc": "xslF345X06/doc4.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001225208-26-008534",
+    "doc": "xslF345X06/doc4.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001225208-26-008533",
+    "doc": "xslF345X06/doc4.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001225208-26-008532",
+    "doc": "xslF345X06/doc4.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001225208-26-008531",
+    "doc": "xslF345X06/doc4.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001225208-26-008530",
+    "doc": "xslF345X06/doc4.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001225208-26-008529",
+    "doc": "xslF345X06/doc4.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001225208-26-008528",
+    "doc": "xslF345X06/doc4.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001225208-26-008527",
+    "doc": "xslF345X06/doc4.xml",
+    "desc": ""
+   },
    {
     "form": "4",
     "date": "2026-10-26",
@@ -6503,76 +6573,6 @@
     "date": "2026-07-17",
     "acc": "0001225208-26-006639",
     "doc": "xslF345X06/doc4.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-07-15",
-    "acc": "0001969223-26-000784",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-07-08",
-    "acc": "0001225208-26-006546",
-    "doc": "xslF345X06/doc4.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-07-06",
-    "acc": "0001969223-26-000759",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "S-3ASR",
-    "date": "2026-07-02",
-    "acc": "0001193125-26-293516",
-    "doc": "d81133ds3asr.htm",
-    "desc": "S-3ASR"
-   },
-   {
-    "form": "10-Q",
-    "date": "2026-06-30",
-    "acc": "0001628280-26-046138",
-    "doc": "jbl-20260531.htm",
-    "desc": "10-Q"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-06-17",
-    "acc": "0001628280-26-043719",
-    "doc": "jbl-20260617.htm",
-    "desc": "8-K"
-   },
-   {
-    "form": "SD",
-    "date": "2026-05-26",
-    "acc": "0001628280-26-038206",
-    "doc": "formsd2025.htm",
-    "desc": "SD"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-04",
-    "acc": "0001225208-26-004910",
-    "doc": "xslF345X06/doc4.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-04-30",
-    "acc": "0001969223-26-000482",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "SCHEDULE 13G",
-    "date": "2026-04-30",
-    "acc": "0002100119-26-000724",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
     "desc": ""
    }
   ]
@@ -6868,6 +6868,13 @@
   "name": "MICROCHIP TECHNOLOGY INC",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-10-27",
+    "acc": "0002012383-26-003925",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-05",
     "acc": "0001181928-26-000038",
@@ -7137,13 +7144,6 @@
     "form": "SCHEDULE 13G/A",
     "date": "2026-07-15",
     "acc": "0000914208-26-000226",
-    "doc": "xslSCHEDULE_13G_X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "SCHEDULE 13G",
-    "date": "2026-07-15",
-    "acc": "0000914208-26-000224",
     "doc": "xslSCHEDULE_13G_X01/primary_doc.xml",
     "desc": ""
    }
@@ -8014,6 +8014,20 @@
    {
     "form": "4",
     "date": "2026-10-27",
+    "acc": "0000904454-26-000555",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0000904454-26-000553",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
     "acc": "0000904454-26-000551",
     "doc": "xslF345X06/edgar.xml",
     "desc": "PRIMARY DOCUMENT"
@@ -8274,20 +8288,6 @@
     "form": "144",
     "date": "2026-05-11",
     "acc": "0001193125-26-217322",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-05-11",
-    "acc": "0001950047-26-004349",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-05-08",
-    "acc": "0001193125-26-215099",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
@@ -8584,6 +8584,13 @@
   "name": "INSIGHT ENTERPRISES INC",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-10-27",
+    "acc": "0002012383-26-003796",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-09-01",
     "acc": "0001628280-26-059836",
@@ -8855,13 +8862,6 @@
     "acc": "0001193125-26-221694",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-05-11",
-    "acc": "0000895421-26-000134",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -9443,6 +9443,34 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001341439-26-000125",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001341439-26-000123",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001341439-26-000121",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-27",
+    "acc": "0001341439-26-000119",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
     "date": "2026-10-19",
     "acc": "0001341439-26-000117",
     "doc": "xslF345X06/form4.xml",
@@ -9692,34 +9720,6 @@
     "acc": "0001193125-26-277521",
     "doc": "orcl-20260531.htm",
     "desc": "10-K"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-06-10",
-    "acc": "0001193125-26-265848",
-    "doc": "orcl-20260610.htm",
-    "desc": "8-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-02",
-    "acc": "0001341439-26-000054",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-02",
-    "acc": "0001341439-26-000052",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-02",
-    "acc": "0001341439-26-000050",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
@@ -11730,6 +11730,13 @@
   "name": "TD SYNNEX CORP",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-10-27",
+    "acc": "0002012383-26-003850",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-23",
     "acc": "0001177394-26-000138",
@@ -12000,13 +12007,6 @@
     "date": "2026-07-06",
     "acc": "0001177394-26-000076",
     "doc": "xslF345X06/wk-form4_1783370941.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-07-06",
-    "acc": "0001177394-26-000074",
-    "doc": "xslF345X06/wk-form4_1783370609.xml",
     "desc": "FORM 4"
    }
   ]
@@ -12588,6 +12588,13 @@
   "name": "Vertiv Holdings Co",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-10-27",
+    "acc": "0002012383-26-003859",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "8-K",
     "date": "2026-10-27",
     "acc": "0001628280-26-067393",
@@ -12859,13 +12866,6 @@
     "acc": "0001628280-26-040031",
     "doc": "vrt-20260603.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "SD",
-    "date": "2026-06-01",
-    "acc": "0001628280-26-039487",
-    "doc": "formsd-vrtconflictminerals.htm",
-    "desc": "SD"
    }
   ]
  },
