@@ -4580,6 +4580,13 @@
   "name": "Alphabet Inc.",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-10-28",
+    "acc": "0001652044-26-000080",
+    "doc": "goog-20261028.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-10-27",
     "acc": "0001193125-26-434846",
@@ -4849,13 +4856,6 @@
     "form": "4",
     "date": "2026-08-27",
     "acc": "0001193125-26-371778",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-11",
-    "acc": "0001193125-26-345383",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
    }
@@ -6296,6 +6296,13 @@
   "name": "JABIL INC",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-10-28",
+    "acc": "0001969223-26-001094",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-27",
     "acc": "0001225208-26-008536",
@@ -6565,13 +6572,6 @@
     "form": "4",
     "date": "2026-07-21",
     "acc": "0001225208-26-006697",
-    "doc": "xslF345X06/doc4.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-07-17",
-    "acc": "0001225208-26-006639",
     "doc": "xslF345X06/doc4.xml",
     "desc": ""
    }
@@ -7726,6 +7726,27 @@
   "name": "MICROSOFT CORP",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-10-28",
+    "acc": "0001193125-26-436149",
+    "doc": "msft-20261028.htm",
+    "desc": "8-K"
+   },
+   {
+    "form": "10-Q",
+    "date": "2026-10-28",
+    "acc": "0001193125-26-436133",
+    "doc": "msft-20260930.htm",
+    "desc": "10-Q"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-10-28",
+    "acc": "0001193125-26-436122",
+    "doc": "msft-20261028.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "PX14A6G",
     "date": "2026-10-27",
     "acc": "0001214659-26-013276",
@@ -7981,27 +8002,6 @@
     "form": "4",
     "date": "2026-09-08",
     "acc": "0000789019-26-000178",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-08",
-    "acc": "0000789019-26-000177",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-08",
-    "acc": "0000789019-26-000176",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-08",
-    "acc": "0000789019-26-000175",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
@@ -12588,6 +12588,13 @@
   "name": "Vertiv Holdings Co",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-10-28",
+    "acc": "0001628280-26-067893",
+    "doc": "vrt-20260930.htm",
+    "desc": "10-Q"
+   },
+   {
     "form": "8-K",
     "date": "2026-10-28",
     "acc": "0001628280-26-067707",
@@ -12859,13 +12866,6 @@
     "acc": "0001628280-26-043906",
     "doc": "vrt-20260617.htm",
     "desc": "11-K"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-06-12",
-    "acc": "0001628280-26-042641",
-    "doc": "vrt-20260612.htm",
-    "desc": "8-K"
    }
   ]
  },
