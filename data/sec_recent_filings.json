@@ -7154,6 +7154,20 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "424B5",
+    "date": "2026-10-28",
+    "acc": "0001193125-26-436410",
+    "doc": "d94886d424b5.htm",
+    "desc": "424B5 FORWARD PROSUPP"
+   },
+   {
+    "form": "424B5",
+    "date": "2026-10-28",
+    "acc": "0001193125-26-436405",
+    "doc": "d133631d424b5.htm",
+    "desc": "424B5"
+   },
+   {
     "form": "FWP",
     "date": "2026-10-27",
     "acc": "0001193125-26-432549",
@@ -7416,20 +7430,6 @@
     "form": "4",
     "date": "2026-08-18",
     "acc": "0000950103-26-012610",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-18",
-    "acc": "0000950103-26-012609",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-18",
-    "acc": "0000950103-26-012608",
     "doc": "xslF345X06/ownership.xml",
     "desc": "FORM 4"
    }
@@ -7726,6 +7726,13 @@
   "name": "MICROSOFT CORP",
   "filings": [
    {
+    "form": "PX14A6G",
+    "date": "2026-10-28",
+    "acc": "0000921895-26-002869",
+    "doc": "px14a6g14098012_10282026.htm",
+    "desc": ""
+   },
+   {
     "form": "8-K",
     "date": "2026-10-28",
     "acc": "0001193125-26-436149",
@@ -7995,13 +8002,6 @@
     "form": "4",
     "date": "2026-09-08",
     "acc": "0000789019-26-000179",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-08",
-    "acc": "0000789019-26-000178",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
