@@ -5152,6 +5152,13 @@
   "name": "HP INC",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-29",
+    "acc": "0002043764-26-000008",
+    "doc": "xslF345X06/form4-10292026_101052.xml",
+    "desc": ""
+   },
+   {
     "form": "144",
     "date": "2026-10-29",
     "acc": "0001964306-26-000481",
@@ -5422,13 +5429,6 @@
     "date": "2026-04-20",
     "acc": "0001436534-26-000007",
     "doc": "xslF345X06/form4-04202026_090456.xml",
-    "desc": ""
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-04-07",
-    "acc": "0002012383-26-001045",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
     "desc": ""
    }
   ]
@@ -7154,6 +7154,20 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "CERT",
+    "date": "2026-10-29",
+    "acc": "0001354457-26-001039",
+    "doc": "METAM_8A_Cert.pdf",
+    "desc": ""
+   },
+   {
+    "form": "8-A12B",
+    "date": "2026-10-29",
+    "acc": "0001193125-26-438111",
+    "doc": "d184794d8a12b.htm",
+    "desc": "8-A12B"
+   },
+   {
     "form": "8-K",
     "date": "2026-10-29",
     "acc": "0001193125-26-438017",
@@ -7418,20 +7432,6 @@
     "acc": "0001921094-26-001000",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-08-20",
-    "acc": "0000950103-26-012729",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-20",
-    "acc": "0000950103-26-012727",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -7439,6 +7439,13 @@
   "cik": "0001280452",
   "name": "MONOLITHIC POWER SYSTEMS, INC.",
   "filings": [
+   {
+    "form": "3",
+    "date": "2026-10-29",
+    "acc": "0001214659-26-013445",
+    "doc": "xslF345X06/marketforms-74124.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
    {
     "form": "8-K",
     "date": "2026-10-29",
@@ -7710,13 +7717,6 @@
     "date": "2026-05-20",
     "acc": "0001214659-26-006622",
     "doc": "xslF345X06/marketforms-72960.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-19",
-    "acc": "0001214659-26-006583",
-    "doc": "xslF345X06/marketforms-73194.xml",
     "desc": "PRIMARY DOCUMENT"
    }
   ]
@@ -11158,6 +11158,34 @@
   "name": "Super Micro Computer, Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-29",
+    "acc": "0001492126-26-000013",
+    "doc": "xslF345X06/wk-form4_1793310608.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-29",
+    "acc": "0002104631-26-000018",
+    "doc": "xslF345X06/wk-form4_1793310460.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-29",
+    "acc": "0002148161-26-000012",
+    "doc": "xslF345X06/wk-form4_1793310267.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-29",
+    "acc": "0002135314-26-000014",
+    "doc": "xslF345X06/wk-form4_1793309848.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "3",
     "date": "2026-10-22",
     "acc": "0001593123-26-000007",
@@ -11407,34 +11435,6 @@
     "date": "2026-08-12",
     "acc": "0002104631-26-000012",
     "doc": "xslF345X06/wk-form4_1786567916.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-12",
-    "acc": "0001492126-26-000010",
-    "doc": "xslF345X06/wk-form4_1786567824.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-12",
-    "acc": "0001392941-26-000012",
-    "doc": "xslF345X06/wk-form4_1786567641.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-12",
-    "acc": "0001392942-26-000011",
-    "doc": "xslF345X06/wk-form4_1786567553.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-12",
-    "acc": "0001777404-26-000012",
-    "doc": "xslF345X06/wk-form4_1786567330.xml",
     "desc": "FORM 4"
    }
   ]
