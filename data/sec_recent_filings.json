@@ -7726,6 +7726,13 @@
   "name": "MICROSOFT CORP",
   "filings": [
    {
+    "form": "424B2",
+    "date": "2026-10-29",
+    "acc": "0001193125-26-437008",
+    "doc": "d150456d424b2.htm",
+    "desc": "424B2"
+   },
+   {
     "form": "PX14A6G",
     "date": "2026-10-28",
     "acc": "0000921895-26-002869",
@@ -7995,13 +8002,6 @@
     "form": "4",
     "date": "2026-09-08",
     "acc": "0000789019-26-000180",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-08",
-    "acc": "0000789019-26-000179",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
