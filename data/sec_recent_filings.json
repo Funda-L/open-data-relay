@@ -862,6 +862,13 @@
   "name": "AMAZON COM INC",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-10-29",
+    "acc": "0001018724-26-000038",
+    "doc": "amzn-20261029.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "3/A",
     "date": "2026-10-06",
     "acc": "0001595602-26-000009",
@@ -1133,13 +1140,6 @@
     "acc": "0001950047-26-007580",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "S-4",
-    "date": "2026-07-31",
-    "acc": "0001104659-26-089294",
-    "doc": "tm2617924-1_s4.htm",
-    "desc": "S-4"
    }
   ]
  },
@@ -2865,6 +2865,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-29",
+    "acc": "0001628280-26-068203",
+    "doc": "xslF345X06/wk-form4_1793304074.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
     "date": "2026-10-22",
     "acc": "0001628280-26-066888",
     "doc": "xslF345X06/wk-form4_1792699719.xml",
@@ -3135,13 +3142,6 @@
     "acc": "0001628280-26-058936",
     "doc": "crdo-20260825.htm",
     "desc": "DEF 14A"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-21",
-    "acc": "0001628280-26-058382",
-    "doc": "xslF345X06/wk-form4_1787331487.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -4294,6 +4294,13 @@
   "name": "FLEX LTD.",
   "filings": [
    {
+    "form": "DEFA14A",
+    "date": "2026-10-29",
+    "acc": "0001193125-26-437752",
+    "doc": "d258710ddefa14a.htm",
+    "desc": "DEFA14A"
+   },
+   {
     "form": "8-K",
     "date": "2026-10-28",
     "acc": "0000866374-26-000039",
@@ -4565,13 +4572,6 @@
     "acc": "0000902219-26-000275",
     "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-08-13",
-    "acc": "0001274173-26-000199",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -4579,6 +4579,13 @@
   "cik": "0001652044",
   "name": "Alphabet Inc.",
   "filings": [
+   {
+    "form": "144",
+    "date": "2026-10-29",
+    "acc": "0001921094-26-001121",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
    {
     "form": "10-Q",
     "date": "2026-10-29",
@@ -4849,13 +4856,6 @@
     "form": "4",
     "date": "2026-08-27",
     "acc": "0001193125-26-371788",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-27",
-    "acc": "0001193125-26-371785",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
    }
@@ -5724,6 +5724,20 @@
   "name": "Ingram Micro Holding Corp",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-10-29",
+    "acc": "0001628280-26-068236",
+    "doc": "ingm-20260926.htm",
+    "desc": "10-Q"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-10-29",
+    "acc": "0001628280-26-068232",
+    "doc": "ingm-20261029.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-10-27",
     "acc": "0001969055-26-000007",
@@ -5988,20 +6002,6 @@
     "acc": "0001104659-26-026412",
     "doc": "xslF345X05/tm268511-1_4seq1.xml",
     "desc": "OWNERSHIP DOCUMENT"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-03-09",
-    "acc": "0001628280-26-016059",
-    "doc": "ingm-20260305.htm",
-    "desc": "8-K"
-   },
-   {
-    "form": "424B4",
-    "date": "2026-03-06",
-    "acc": "0001628280-26-015645",
-    "doc": "ingrammicro424b4finalprosp.htm",
-    "desc": "424B4"
    }
   ]
  },
@@ -6582,6 +6582,13 @@
   "name": "LITTELFUSE INC /DE",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-10-29",
+    "acc": "0001628280-26-068267",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "10-Q",
     "date": "2026-10-28",
     "acc": "0001628280-26-067807",
@@ -6852,13 +6859,6 @@
     "date": "2026-06-08",
     "acc": "0001722163-26-000005",
     "doc": "xslF345X06/wk-form4_1780949506.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-08",
-    "acc": "0001186518-26-000018",
-    "doc": "xslF345X06/wk-form4_1780949501.xml",
     "desc": "FORM 4"
    }
   ]
@@ -7440,6 +7440,13 @@
   "name": "MONOLITHIC POWER SYSTEMS, INC.",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-10-29",
+    "acc": "0001628280-26-068202",
+    "doc": "mpwr-20261027.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-09-30",
     "acc": "0001214659-26-012375",
@@ -7711,13 +7718,6 @@
     "acc": "0001214659-26-006583",
     "doc": "xslF345X06/marketforms-73194.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "144",
-    "date": "2026-05-18",
-    "acc": "0001280452-26-000008",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -8298,6 +8298,13 @@
   "name": "Nebius Group N.V.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-10-29",
+    "acc": "0001950047-26-010478",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-29",
     "acc": "0001513845-26-000143",
@@ -8569,13 +8576,6 @@
     "acc": "0001513845-26-000090",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "144",
-    "date": "2026-08-14",
-    "acc": "0001950047-26-008147",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
