@@ -11158,6 +11158,13 @@
   "name": "Super Micro Computer, Inc.",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-10-30",
+    "acc": "0002100121-26-001133",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-29",
     "acc": "0001392941-26-000017",
@@ -11429,13 +11436,6 @@
     "acc": "0001595888-26-000103",
     "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-08-12",
-    "acc": "0002148161-26-000008",
-    "doc": "xslF345X06/wk-form4_1786569651.xml",
-    "desc": "FORM 4"
    }
   ]
  },
