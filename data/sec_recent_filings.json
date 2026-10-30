@@ -862,6 +862,13 @@
   "name": "AMAZON COM INC",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-10-30",
+    "acc": "0001018724-26-000040",
+    "doc": "amzn-20260930.htm",
+    "desc": "10-Q"
+   },
+   {
     "form": "8-K",
     "date": "2026-10-29",
     "acc": "0001018724-26-000038",
@@ -1133,13 +1140,6 @@
     "acc": "0001018724-26-000028",
     "doc": "xslF345X06/wk-form4_1785962062.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "144",
-    "date": "2026-08-03",
-    "acc": "0001950047-26-007580",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -7726,6 +7726,13 @@
   "name": "MICROSOFT CORP",
   "filings": [
    {
+    "form": "FWP",
+    "date": "2026-10-30",
+    "acc": "0001193125-26-439794",
+    "doc": "d799291dfwp.htm",
+    "desc": "FWP"
+   },
+   {
     "form": "424B2",
     "date": "2026-10-29",
     "acc": "0001193125-26-437008",
@@ -7995,13 +8002,6 @@
     "form": "4",
     "date": "2026-09-08",
     "acc": "0000789019-26-000181",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-08",
-    "acc": "0000789019-26-000180",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
