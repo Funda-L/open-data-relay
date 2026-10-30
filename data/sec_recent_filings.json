@@ -4580,6 +4580,13 @@
   "name": "Alphabet Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-30",
+    "acc": "0001193125-26-442116",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "4"
+   },
+   {
     "form": "144",
     "date": "2026-10-29",
     "acc": "0001921094-26-001121",
@@ -4849,13 +4856,6 @@
     "form": "4",
     "date": "2026-08-27",
     "acc": "0001193125-26-371794",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-27",
-    "acc": "0001193125-26-371788",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
    }
@@ -8014,6 +8014,34 @@
    {
     "form": "4",
     "date": "2026-10-30",
+    "acc": "0000904454-26-000576",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-30",
+    "acc": "0000904454-26-000574",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-30",
+    "acc": "0000904454-26-000572",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-30",
+    "acc": "0000904454-26-000570",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-10-30",
     "acc": "0000904454-26-000568",
     "doc": "xslF345X06/edgar.xml",
     "desc": "PRIMARY DOCUMENT"
@@ -8260,34 +8288,6 @@
     "form": "4",
     "date": "2026-05-15",
     "acc": "0000904454-26-000300",
-    "doc": "xslF345X06/edgar.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-05-15",
-    "acc": "0001897612-26-000483",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-05-14",
-    "acc": "0001950047-26-004560",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-05-13",
-    "acc": "0001193125-26-222297",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-05-13",
-    "acc": "0000904454-26-000283",
     "doc": "xslF345X06/edgar.xml",
     "desc": "PRIMARY DOCUMENT"
    }
