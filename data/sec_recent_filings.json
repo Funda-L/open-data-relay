@@ -3437,6 +3437,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-10-30",
+    "acc": "0001769628-26-000452",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
     "date": "2026-10-22",
     "acc": "0001769628-26-000451",
     "doc": "xslF345X06/form4.xml",
@@ -3707,13 +3714,6 @@
     "acc": "0001628280-26-062362",
     "doc": "coreweave-424b5.htm",
     "desc": "424B5"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-16",
-    "acc": "0001769628-26-000427",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
@@ -8012,6 +8012,13 @@
   "name": "MACOM Technology Solutions Holdings, Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-10-30",
+    "acc": "0000904454-26-000568",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "SCHEDULE 13G/A",
     "date": "2026-10-30",
     "acc": "0001193125-26-441537",
@@ -8283,13 +8290,6 @@
     "acc": "0000904454-26-000283",
     "doc": "xslF345X06/edgar.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "144",
-    "date": "2026-05-12",
-    "acc": "0001968582-26-000429",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -8297,6 +8297,13 @@
   "cik": "0001513845",
   "name": "Nebius Group N.V.",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-10-30",
+    "acc": "0001513845-26-000145",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
    {
     "form": "144",
     "date": "2026-10-29",
@@ -8567,13 +8574,6 @@
     "form": "4",
     "date": "2026-08-18",
     "acc": "0001513845-26-000092",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-18",
-    "acc": "0001513845-26-000090",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
    }
