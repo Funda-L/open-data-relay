@@ -290,6 +290,13 @@
   "name": "ANALOG DEVICES INC",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-02",
+    "acc": "0001959173-26-007614",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "SCHEDULE 13G/A",
     "date": "2026-10-27",
     "acc": "0002012383-26-003874",
@@ -560,13 +567,6 @@
     "date": "2026-08-19",
     "acc": "0001465733-26-000003",
     "doc": "xslF345X06/wk-form4_1787170817.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-19",
-    "acc": "0000006281-26-000075",
-    "doc": "xslF345X06/wk-form4_1787170770.xml",
     "desc": "FORM 4"
    }
   ]
