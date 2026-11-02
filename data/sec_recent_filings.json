@@ -9442,6 +9442,13 @@
   "name": "ORACLE CORP",
   "filings": [
    {
+    "form": "FWP",
+    "date": "2026-11-02",
+    "acc": "0001193125-26-443918",
+    "doc": "d87441dfwp.htm",
+    "desc": "FWP"
+   },
+   {
     "form": "424B5",
     "date": "2026-11-02",
     "acc": "0001193125-26-442729",
@@ -9711,13 +9718,6 @@
     "form": "4",
     "date": "2026-07-28",
     "acc": "0001341439-26-000066",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-26",
-    "acc": "0001341439-26-000064",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
    }
