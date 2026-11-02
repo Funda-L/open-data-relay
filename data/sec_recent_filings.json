@@ -7726,6 +7726,13 @@
   "name": "MICROSOFT CORP",
   "filings": [
    {
+    "form": "424B2",
+    "date": "2026-11-02",
+    "acc": "0001193125-26-442618",
+    "doc": "d150456d424b2.htm",
+    "desc": "424B2"
+   },
+   {
     "form": "FWP",
     "date": "2026-10-30",
     "acc": "0001193125-26-439794",
@@ -7995,13 +8002,6 @@
     "form": "4",
     "date": "2026-09-08",
     "acc": "0000789019-26-000182",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-08",
-    "acc": "0000789019-26-000181",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
@@ -8299,6 +8299,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-11-02",
+    "acc": "0001513845-26-000147",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
     "date": "2026-10-30",
     "acc": "0001513845-26-000145",
     "doc": "xslF345X06/form4.xml",
@@ -8569,13 +8576,6 @@
     "acc": "0001104659-26-098590",
     "doc": "tm2623513d1_6k.htm",
     "desc": "FORM 6-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-18",
-    "acc": "0001513845-26-000092",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
@@ -9442,6 +9442,13 @@
   "name": "ORACLE CORP",
   "filings": [
    {
+    "form": "S-3ASR",
+    "date": "2026-11-02",
+    "acc": "0001193125-26-442669",
+    "doc": "d181173ds3asr.htm",
+    "desc": "S-3ASR"
+   },
+   {
     "form": "8-K",
     "date": "2026-10-28",
     "acc": "0001193125-26-435853",
@@ -9713,13 +9720,6 @@
     "acc": "0001959173-26-004824",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "424B5",
-    "date": "2026-06-23",
-    "acc": "0001193125-26-278585",
-    "doc": "d120346d424b5.htm",
-    "desc": "424B5"
    }
   ]
  },
