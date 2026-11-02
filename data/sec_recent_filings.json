@@ -5438,6 +5438,13 @@
   "name": "INTERNATIONAL BUSINESS MACHINES CORP",
   "filings": [
    {
+    "form": "25-NSE",
+    "date": "2026-11-02",
+    "acc": "0000876661-26-000884",
+    "doc": "xslF25X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "10-Q",
     "date": "2026-10-22",
     "acc": "0000051143-26-000095",
@@ -5707,13 +5714,6 @@
     "form": "4",
     "date": "2026-07-02",
     "acc": "0001738987-26-000003",
-    "doc": "xslF345X06/primarydocument.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-07-02",
-    "acc": "0001804183-26-000011",
     "doc": "xslF345X06/primarydocument.xml",
     "desc": "PRIMARY DOCUMENT"
    }
