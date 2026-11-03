@@ -290,6 +290,13 @@
   "name": "ANALOG DEVICES INC",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-03",
+    "acc": "0000006281-26-000082",
+    "doc": "xslF345X06/wk-form4_1793740942.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "144",
     "date": "2026-11-02",
     "acc": "0001959173-26-007614",
@@ -561,13 +568,6 @@
     "acc": "0002044259-26-000010",
     "doc": "xslF345X06/wk-form4_1787170855.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-19",
-    "acc": "0001465733-26-000003",
-    "doc": "xslF345X06/wk-form4_1787170817.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -575,6 +575,13 @@
   "cik": "0001736297",
   "name": "Astera Labs, Inc.",
   "filings": [
+   {
+    "form": "8-K",
+    "date": "2026-11-03",
+    "acc": "0001736297-26-000044",
+    "doc": "alab-20261103.htm",
+    "desc": "8-K"
+   },
    {
     "form": "4",
     "date": "2026-10-09",
@@ -847,13 +854,6 @@
     "acc": "0001950047-26-005196",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "SD",
-    "date": "2026-05-28",
-    "acc": "0001736297-26-000025",
-    "doc": "formsd.htm",
-    "desc": "SD"
    }
   ]
  },
@@ -861,6 +861,13 @@
   "cik": "0001018724",
   "name": "AMAZON COM INC",
   "filings": [
+   {
+    "form": "13F-HR",
+    "date": "2026-11-03",
+    "acc": "0001104659-26-122014",
+    "doc": "xslForm13F_X02/primary_doc.xml",
+    "desc": ""
+   },
    {
     "form": "10-Q",
     "date": "2026-10-30",
@@ -1132,13 +1139,6 @@
     "date": "2026-08-05",
     "acc": "0001018724-26-000030",
     "doc": "xslF345X06/wk-form4_1785962562.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-05",
-    "acc": "0001018724-26-000028",
-    "doc": "xslF345X06/wk-form4_1785962062.xml",
     "desc": "FORM 4"
    }
   ]
@@ -1434,6 +1434,13 @@
   "name": "AMPHENOL CORP /DE/",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-03",
+    "acc": "0001104659-26-121973",
+    "doc": "xslF345X06/tm2628914-1_4seq1.xml",
+    "desc": "OWNERSHIP DOCUMENT"
+   },
+   {
     "form": "144",
     "date": "2026-11-02",
     "acc": "0001950047-26-010525",
@@ -1704,13 +1711,6 @@
     "date": "2026-05-21",
     "acc": "0001104659-26-065303",
     "doc": "xslF345X06/tm2615337-1_4seq1.xml",
-    "desc": "OWNERSHIP DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-21",
-    "acc": "0001104659-26-065147",
-    "doc": "xslF345X06/tm2615337-2_4seq1.xml",
     "desc": "OWNERSHIP DOCUMENT"
    }
   ]
@@ -7440,6 +7440,13 @@
   "name": "MONOLITHIC POWER SYSTEMS, INC.",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-11-03",
+    "acc": "0001628280-26-069440",
+    "doc": "mpwr-20260930.htm",
+    "desc": "10-Q"
+   },
+   {
     "form": "3",
     "date": "2026-10-29",
     "acc": "0001214659-26-013445",
@@ -7710,13 +7717,6 @@
     "date": "2026-05-20",
     "acc": "0001214659-26-006625",
     "doc": "xslF345X06/marketforms-73205.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-20",
-    "acc": "0001214659-26-006622",
-    "doc": "xslF345X06/marketforms-72960.xml",
     "desc": "PRIMARY DOCUMENT"
    }
   ]
@@ -8870,6 +8870,20 @@
   "name": "Navitas Semiconductor Corp",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-11-03",
+    "acc": "0001628280-26-069551",
+    "doc": "nvts-20260930.htm",
+    "desc": "10-Q"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-11-03",
+    "acc": "0001628280-26-069489",
+    "doc": "i-20261103.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "S-8",
     "date": "2026-10-06",
     "acc": "0001104659-26-114090",
@@ -9134,20 +9148,6 @@
     "acc": "0001950047-26-005146",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-05-27",
-    "acc": "0001950047-26-005134",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "8-K",
-    "date": "2026-05-22",
-    "acc": "0001104659-26-065737",
-    "doc": "tm2615305d2_8k.htm",
-    "desc": "FORM 8-K"
    }
   ]
  },
