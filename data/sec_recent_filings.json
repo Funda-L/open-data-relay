@@ -5724,6 +5724,13 @@
   "name": "Ingram Micro Holding Corp",
   "filings": [
    {
+    "form": "424B7",
+    "date": "2026-11-03",
+    "acc": "0001628280-26-069039",
+    "doc": "ingram-fixedofferingprelim.htm",
+    "desc": "424B7"
+   },
+   {
     "form": "10-Q",
     "date": "2026-10-29",
     "acc": "0001628280-26-068236",
@@ -5995,13 +6002,6 @@
     "acc": "0001104659-26-035172",
     "doc": "ingm-20260513xdef14a.htm",
     "desc": "DEF 14A"
-   },
-   {
-    "form": "4",
-    "date": "2026-03-11",
-    "acc": "0001104659-26-026412",
-    "doc": "xslF345X05/tm268511-1_4seq1.xml",
-    "desc": "OWNERSHIP DOCUMENT"
    }
   ]
  },
