@@ -2292,6 +2292,20 @@
   "name": "Bloom Energy Corp",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-03",
+    "acc": "0001193125-26-445581",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "4"
+   },
+   {
+    "form": "144",
+    "date": "2026-11-03",
+    "acc": "0001968582-26-001098",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "144",
     "date": "2026-11-02",
     "acc": "0001950047-26-010580",
@@ -2556,20 +2570,6 @@
     "acc": "0001628280-26-047734",
     "doc": "be-20260709.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-07-02",
-    "acc": "0001193125-26-295081",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-07-02",
-    "acc": "0001193125-26-295069",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
    }
   ]
  },
@@ -5153,6 +5153,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-11-03",
+    "acc": "0001185643-26-000005",
+    "doc": "xslF345X06/form4-11032026_101119.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
     "date": "2026-10-29",
     "acc": "0002043764-26-000008",
     "doc": "xslF345X06/form4-10292026_101052.xml",
@@ -5422,13 +5429,6 @@
     "date": "2026-04-20",
     "acc": "0001656243-26-000002",
     "doc": "xslF345X06/form4-04202026_090404.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-04-20",
-    "acc": "0001436534-26-000007",
-    "doc": "xslF345X06/form4-04202026_090456.xml",
     "desc": ""
    }
   ]
@@ -5726,6 +5726,13 @@
    {
     "form": "424B7",
     "date": "2026-11-03",
+    "acc": "0001628280-26-069589",
+    "doc": "ingram-fixedofferingfinalp.htm",
+    "desc": "424B7"
+   },
+   {
+    "form": "424B7",
+    "date": "2026-11-03",
     "acc": "0001628280-26-069039",
     "doc": "ingram-fixedofferingprelim.htm",
     "desc": "424B7"
@@ -5995,13 +6002,6 @@
     "acc": "0001104659-26-035184",
     "doc": "ingm-20251227xdefa14a.htm",
     "desc": "DEFA14A"
-   },
-   {
-    "form": "DEF 14A",
-    "date": "2026-03-26",
-    "acc": "0001104659-26-035172",
-    "doc": "ingm-20260513xdef14a.htm",
-    "desc": "DEF 14A"
    }
   ]
  },
@@ -7154,6 +7154,13 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "FWP",
+    "date": "2026-11-03",
+    "acc": "0001193125-26-445646",
+    "doc": "d186765dfwp.htm",
+    "desc": "FWP"
+   },
+   {
     "form": "424B5",
     "date": "2026-11-03",
     "acc": "0001193125-26-444440",
@@ -7423,13 +7430,6 @@
     "form": "144",
     "date": "2026-09-15",
     "acc": "0001921094-26-001023",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-09-14",
-    "acc": "0001921094-26-001013",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
@@ -11158,6 +11158,13 @@
   "name": "Super Micro Computer, Inc.",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-03",
+    "acc": "0001375365-26-000026",
+    "doc": "smci-20261103.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "SCHEDULE 13G/A",
     "date": "2026-10-30",
     "acc": "0002100121-26-001133",
@@ -11427,13 +11434,6 @@
     "form": "SCHEDULE 13G/A",
     "date": "2026-08-14",
     "acc": "0001011712-26-000027",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-08-13",
-    "acc": "0001595888-26-000103",
     "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
     "desc": ""
    }
