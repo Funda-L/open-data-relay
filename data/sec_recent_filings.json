@@ -3150,6 +3150,20 @@
   "name": "CIRRUS LOGIC, INC.",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-11-04",
+    "acc": "0000772406-26-000054",
+    "doc": "crus-20260926.htm",
+    "desc": "10-Q"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-11-04",
+    "acc": "0000772406-26-000053",
+    "doc": "crus-20261104.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-10-21",
     "acc": "0001777830-26-000020",
@@ -3414,20 +3428,6 @@
     "acc": "0001950047-26-004889",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "10-K",
-    "date": "2026-05-21",
-    "acc": "0000772406-26-000018",
-    "doc": "crus-20260328.htm",
-    "desc": "10-K"
-   },
-   {
-    "form": "SD",
-    "date": "2026-05-21",
-    "acc": "0000772406-26-000017",
-    "doc": "crus2025formsd.htm",
-    "desc": "SD"
    }
   ]
  },
@@ -4580,6 +4580,13 @@
   "name": "Alphabet Inc.",
   "filings": [
    {
+    "form": "424B2",
+    "date": "2026-11-04",
+    "acc": "0001193125-26-447343",
+    "doc": "d125079d424b2.htm",
+    "desc": "424B2"
+   },
+   {
     "form": "FWP",
     "date": "2026-11-02",
     "acc": "0001193125-26-443857",
@@ -4851,13 +4858,6 @@
     "acc": "0001193125-26-374341",
     "doc": "xslN-PX_X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-08-27",
-    "acc": "0001193125-26-371799",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
    }
   ]
  },
@@ -4865,6 +4865,13 @@
   "cik": "0001645590",
   "name": "Hewlett Packard Enterprise Co",
   "filings": [
+   {
+    "form": "8-K",
+    "date": "2026-11-04",
+    "acc": "0001645590-26-000087",
+    "doc": "hpe-20261104.htm",
+    "desc": "8-K"
+   },
    {
     "form": "4",
     "date": "2026-10-23",
@@ -5137,13 +5144,6 @@
     "acc": "0001788574-26-000002",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-05-14",
-    "acc": "0001645590-26-000045",
-    "doc": "hpe-20260513.htm",
-    "desc": "8-K"
    }
   ]
  },
@@ -5151,6 +5151,13 @@
   "cik": "0000047217",
   "name": "HP INC",
   "filings": [
+   {
+    "form": "8-K",
+    "date": "2026-11-04",
+    "acc": "0001140361-26-041969",
+    "doc": "ef20084915_8k.htm",
+    "desc": "8-K"
+   },
    {
     "form": "4",
     "date": "2026-11-03",
@@ -5422,13 +5429,6 @@
     "date": "2026-04-20",
     "acc": "0001257094-26-000003",
     "doc": "xslF345X06/form4-04202026_090450.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-04-20",
-    "acc": "0001656243-26-000002",
-    "doc": "xslF345X06/form4-04202026_090404.xml",
     "desc": ""
    }
   ]
@@ -5724,6 +5724,13 @@
   "name": "Ingram Micro Holding Corp",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-04",
+    "acc": "0001628280-26-070182",
+    "doc": "ingm-20261102.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "424B7",
     "date": "2026-11-03",
     "acc": "0001628280-26-069589",
@@ -5995,13 +6002,6 @@
     "acc": "0001104659-26-035194",
     "doc": "ingm-20251227xars.pdf",
     "desc": "ARS"
-   },
-   {
-    "form": "DEFA14A",
-    "date": "2026-03-26",
-    "acc": "0001104659-26-035184",
-    "doc": "ingm-20251227xdefa14a.htm",
-    "desc": "DEFA14A"
    }
   ]
  },
@@ -7154,6 +7154,13 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-04",
+    "acc": "0001160077-26-000013",
+    "doc": "xslF345X06/form4-11042026_091132.xml",
+    "desc": ""
+   },
+   {
     "form": "424B5",
     "date": "2026-11-04",
     "acc": "0001193125-26-446110",
@@ -7423,13 +7430,6 @@
     "form": "4",
     "date": "2026-09-17",
     "acc": "0000950103-26-014140",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-16",
-    "acc": "0000950103-26-014061",
     "doc": "xslF345X06/ownership.xml",
     "desc": "FORM 4"
    }
@@ -7726,6 +7726,13 @@
   "name": "MICROSOFT CORP",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-04",
+    "acc": "0001193125-26-447173",
+    "doc": "d178557d8k.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "424B2",
     "date": "2026-11-02",
     "acc": "0001193125-26-442618",
@@ -7995,13 +8002,6 @@
     "form": "4",
     "date": "2026-09-08",
     "acc": "0000789019-26-000183",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-08",
-    "acc": "0000789019-26-000182",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
@@ -9729,6 +9729,13 @@
   "filings": [
    {
     "form": "8-K",
+    "date": "2026-11-04",
+    "acc": "0000833640-26-000152",
+    "doc": "powi-20261104.htm",
+    "desc": "8-K"
+   },
+   {
+    "form": "8-K",
     "date": "2026-08-14",
     "acc": "0001213900-26-090018",
     "doc": "ea0301642-8k_power.htm",
@@ -9999,13 +10006,6 @@
     "acc": "0000833640-26-000081",
     "doc": "xslF345X06/edgardoc.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "10-Q",
-    "date": "2026-05-07",
-    "acc": "0000833640-26-000078",
-    "doc": "powi-20260331x10q.htm",
-    "desc": "10-Q"
    }
   ]
  },
@@ -10873,6 +10873,13 @@
   "filings": [
    {
     "form": "8-K",
+    "date": "2026-11-04",
+    "acc": "0001451809-26-000076",
+    "doc": "sitm-20261104.htm",
+    "desc": "8-K"
+   },
+   {
+    "form": "8-K",
     "date": "2026-10-23",
     "acc": "0001451809-26-000070",
     "doc": "sitm-20261019.htm",
@@ -11141,13 +11148,6 @@
     "form": "144",
     "date": "2026-06-15",
     "acc": "0001973251-26-000024",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-06-12",
-    "acc": "0001950047-26-006037",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
