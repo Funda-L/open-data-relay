@@ -4,6 +4,13 @@
   "name": "APPLIED OPTOELECTRONICS, INC.",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-04",
+    "acc": "0001683168-26-008310",
+    "doc": "aaoi_8k.htm",
+    "desc": "FORM 8-K"
+   },
+   {
     "form": "SCHEDULE 13G",
     "date": "2026-10-30",
     "acc": "0002100119-26-001557",
@@ -274,13 +281,6 @@
     "date": "2026-07-21",
     "acc": "0001974078-26-000272",
     "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-07-14",
-    "acc": "0001683168-26-005532",
-    "doc": "xslF345X06/ownership.xml",
     "desc": ""
    }
   ]
@@ -576,6 +576,13 @@
   "name": "Astera Labs, Inc.",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-04",
+    "acc": "0001628280-26-070258",
+    "doc": "alab-20261102.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "10-Q",
     "date": "2026-11-04",
     "acc": "0001736297-26-000045",
@@ -847,13 +854,6 @@
     "acc": "0001969223-26-000638",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-06-03",
-    "acc": "0001973251-26-000020",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -861,6 +861,13 @@
   "cik": "0001018724",
   "name": "AMAZON COM INC",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-11-04",
+    "acc": "0001936006-26-000028",
+    "doc": "xslF345X06/wk-form4_1793831214.xml",
+    "desc": "FORM 4"
+   },
    {
     "form": "144",
     "date": "2026-11-04",
@@ -1132,13 +1139,6 @@
     "date": "2026-08-06",
     "acc": "0001104659-26-092071",
     "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "13F-HR",
-    "date": "2026-08-06",
-    "acc": "0001104659-26-092052",
-    "doc": "xslForm13F_X02/primary_doc.xml",
     "desc": ""
    }
   ]
@@ -7154,6 +7154,13 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "FWP",
+    "date": "2026-11-04",
+    "acc": "0001193125-26-447522",
+    "doc": "d154804dfwp.htm",
+    "desc": "FWP"
+   },
+   {
     "form": "4",
     "date": "2026-11-04",
     "acc": "0001160077-26-000013",
@@ -7425,13 +7432,6 @@
     "acc": "0001921094-26-001039",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-09-17",
-    "acc": "0000950103-26-014140",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -9442,6 +9442,13 @@
   "name": "ORACLE CORP",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-04",
+    "acc": "0001193125-26-447507",
+    "doc": "d131790d8k.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "424B5",
     "date": "2026-11-04",
     "acc": "0001193125-26-445847",
@@ -9713,13 +9720,6 @@
     "acc": "0001193125-26-389753",
     "doc": "d20034d8k.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "10-Q",
-    "date": "2026-09-11",
-    "acc": "0001193125-26-389274",
-    "doc": "orcl-20260831.htm",
-    "desc": "10-Q"
    }
   ]
  },
@@ -13160,6 +13160,13 @@
   "name": "Infleqtion, Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-04",
+    "acc": "0001628280-26-070304",
+    "doc": "xslF345X06/wk-form4_1793831512.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "8-K",
     "date": "2026-09-24",
     "acc": "0001628280-26-063328",
@@ -13431,13 +13438,6 @@
     "acc": "0001012975-26-000360",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-04-14",
-    "acc": "0001240366-26-000012",
-    "doc": "xslF345X06/form4-04142026_100419.xml",
-    "desc": ""
    }
   ]
  },
