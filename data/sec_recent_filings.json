@@ -862,6 +862,13 @@
   "name": "AMAZON COM INC",
   "filings": [
    {
+    "form": "144/A",
+    "date": "2026-11-05",
+    "acc": "0001000275-26-000122",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-11-04",
     "acc": "0001936006-26-000028",
@@ -1132,13 +1139,6 @@
     "date": "2026-08-06",
     "acc": "0001104659-26-092080",
     "doc": "xslN-PX_X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "SCHEDULE 13G",
-    "date": "2026-08-06",
-    "acc": "0001104659-26-092071",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
     "desc": ""
    }
   ]
