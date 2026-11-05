@@ -7154,6 +7154,13 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "424B5",
+    "date": "2026-11-05",
+    "acc": "0001193125-26-448015",
+    "doc": "d135326d424b5.htm",
+    "desc": "424B5"
+   },
+   {
     "form": "4",
     "date": "2026-11-04",
     "acc": "0000950103-26-016962",
@@ -7425,13 +7432,6 @@
     "acc": "0000950103-26-014402",
     "doc": "xslF345X06/ownership.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "144",
-    "date": "2026-09-21",
-    "acc": "0001921094-26-001042",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -7727,6 +7727,13 @@
   "filings": [
    {
     "form": "8-K",
+    "date": "2026-11-05",
+    "acc": "0001193125-26-448357",
+    "doc": "d177209d8k.htm",
+    "desc": "8-K"
+   },
+   {
+    "form": "8-K",
     "date": "2026-11-04",
     "acc": "0001193125-26-447173",
     "doc": "d178557d8k.htm",
@@ -7995,13 +8002,6 @@
     "form": "4",
     "date": "2026-09-08",
     "acc": "0000789019-26-000184",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-08",
-    "acc": "0000789019-26-000183",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
@@ -10872,6 +10872,13 @@
   "name": "SITIME Corp",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-11-05",
+    "acc": "0001451809-26-000077",
+    "doc": "sitm-20260930.htm",
+    "desc": "10-Q"
+   },
+   {
     "form": "8-K",
     "date": "2026-11-04",
     "acc": "0001451809-26-000076",
@@ -11141,13 +11148,6 @@
     "form": "144",
     "date": "2026-06-15",
     "acc": "0001950047-26-006093",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-06-15",
-    "acc": "0001973251-26-000024",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
