@@ -1720,6 +1720,20 @@
   "name": "ARROW ELECTRONICS, INC.",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-11-05",
+    "acc": "0001104659-26-123063",
+    "doc": "arw-20261003x10q.htm",
+    "desc": "10-Q"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-11-05",
+    "acc": "0000007536-26-000150",
+    "doc": "arw-20261105x8k.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-10-23",
     "acc": "0000007536-26-000148",
@@ -1984,20 +1998,6 @@
     "acc": "0000007536-26-000090",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-14",
-    "acc": "0000007536-26-000088",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-05-13",
-    "acc": "0001104659-26-060235",
-    "doc": "tm2614085d1_8k.htm",
-    "desc": "FORM 8-K"
    }
   ]
  },
@@ -8012,6 +8012,13 @@
   "name": "MACOM Technology Solutions Holdings, Inc.",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-05",
+    "acc": "0001493594-26-000041",
+    "doc": "mtsi-20261105.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-10-30",
     "acc": "0000904454-26-000576",
@@ -8283,13 +8290,6 @@
     "acc": "0001239366-26-000008",
     "doc": "xslF345X06/form4-05182026_080507.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-05-15",
-    "acc": "0000904454-26-000300",
-    "doc": "xslF345X06/edgar.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
