@@ -291,6 +291,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-11-06",
+    "acc": "0000900729-26-000021",
+    "doc": "xslF345X06/wk-form4_1793999149.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
     "date": "2026-11-03",
     "acc": "0000006281-26-000082",
     "doc": "xslF345X06/wk-form4_1793740942.xml",
@@ -560,13 +567,6 @@
     "date": "2026-08-19",
     "acc": "0002009110-26-000003",
     "doc": "xslF345X06/wk-form4_1787170913.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-19",
-    "acc": "0002044259-26-000010",
-    "doc": "xslF345X06/wk-form4_1787170855.xml",
     "desc": "FORM 4"
    }
   ]
@@ -1148,6 +1148,13 @@
   "name": "ALPHA & OMEGA SEMICONDUCTOR Ltd",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-11-06",
+    "acc": "0001628280-26-071659",
+    "doc": "aosl-20260930.htm",
+    "desc": "10-Q"
+   },
+   {
     "form": "8-K",
     "date": "2026-11-05",
     "acc": "0001628280-26-071016",
@@ -1419,13 +1426,6 @@
     "acc": "0001950047-26-003591",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-04-16",
-    "acc": "0001628280-26-025505",
-    "doc": "xslF345X06/wk-form4_1776370437.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -2292,6 +2292,13 @@
   "name": "Bloom Energy Corp",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-11-06",
+    "acc": "0001595888-26-000131",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-11-05",
     "acc": "0001193125-26-450213",
@@ -2563,13 +2570,6 @@
     "acc": "0001628280-26-050150",
     "doc": "be-20260728.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-07-27",
-    "acc": "0002012383-26-002272",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -3436,6 +3436,13 @@
   "name": "CoreWeave, Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-06",
+    "acc": "0001769628-26-000453",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "144",
     "date": "2026-11-05",
     "acc": "0001950047-26-010733",
@@ -3707,13 +3714,6 @@
     "acc": "0001769628-26-000430",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-09-17",
-    "acc": "0001769628-26-000429",
-    "doc": "crwv-20260917.htm",
-    "desc": "8-K"
    }
   ]
  },
@@ -5724,6 +5724,13 @@
   "name": "Ingram Micro Holding Corp",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-06",
+    "acc": "0001104659-26-123883",
+    "doc": "xslF345X06/tm2629091-1_4seq1.xml",
+    "desc": "OWNERSHIP DOCUMENT"
+   },
+   {
     "form": "8-K",
     "date": "2026-11-04",
     "acc": "0001628280-26-070182",
@@ -5995,13 +6002,6 @@
     "acc": "0001104659-26-037994",
     "doc": "xslF345X06/tm2610735-1_4seq1.xml",
     "desc": "OWNERSHIP DOCUMENT"
-   },
-   {
-    "form": "ARS",
-    "date": "2026-03-26",
-    "acc": "0001104659-26-035194",
-    "doc": "ingm-20251227xars.pdf",
-    "desc": "ARS"
    }
   ]
  },
@@ -8012,6 +8012,13 @@
   "name": "MACOM Technology Solutions Holdings, Inc.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-06",
+    "acc": "0001950047-26-010776",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "SCHEDULE 13G/A",
     "date": "2026-11-05",
     "acc": "0000315066-26-002777",
@@ -8283,13 +8290,6 @@
     "acc": "0000904454-26-000308",
     "doc": "xslF345X06/edgar.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "144",
-    "date": "2026-05-18",
-    "acc": "0001950047-26-004701",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -8870,6 +8870,13 @@
   "name": "Navitas Semiconductor Corp",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-11-06",
+    "acc": "0001595888-26-000147",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "10-Q",
     "date": "2026-11-03",
     "acc": "0001628280-26-069551",
@@ -9139,13 +9146,6 @@
     "form": "144",
     "date": "2026-05-28",
     "acc": "0001959173-26-004093",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-05-27",
-    "acc": "0001950047-26-005146",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
@@ -11158,6 +11158,13 @@
   "name": "Super Micro Computer, Inc.",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-11-06",
+    "acc": "0001595888-26-000142",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "10-Q",
     "date": "2026-11-06",
     "acc": "0001375365-26-000027",
@@ -11428,13 +11435,6 @@
     "date": "2026-08-18",
     "acc": "0001921058-26-000002",
     "doc": "xslF345X06/wk-form4_1787086016.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-18",
-    "acc": "0002063388-26-000004",
-    "doc": "xslF345X06/wk-form4_1787085971.xml",
     "desc": "FORM 4"
    }
   ]
