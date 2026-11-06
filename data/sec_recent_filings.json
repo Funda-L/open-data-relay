@@ -2293,6 +2293,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-11-05",
+    "acc": "0001193125-26-450213",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "4"
+   },
+   {
+    "form": "4",
     "date": "2026-11-03",
     "acc": "0001193125-26-445581",
     "doc": "xslF345X06/ownership.xml",
@@ -2563,13 +2570,6 @@
     "acc": "0002012383-26-002272",
     "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "8-K",
-    "date": "2026-07-09",
-    "acc": "0001628280-26-047734",
-    "doc": "be-20260709.htm",
-    "desc": "8-K"
    }
   ]
  },
@@ -7440,6 +7440,13 @@
   "name": "MONOLITHIC POWER SYSTEMS, INC.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-05",
+    "acc": "0001214659-26-013798",
+    "doc": "xslF345X06/marketforms-74235.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "SCHEDULE 13G/A",
     "date": "2026-11-05",
     "acc": "0000315066-26-002809",
@@ -7709,13 +7716,6 @@
     "form": "144",
     "date": "2026-05-26",
     "acc": "0001950047-26-005027",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-05-22",
-    "acc": "0001950047-26-005012",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
