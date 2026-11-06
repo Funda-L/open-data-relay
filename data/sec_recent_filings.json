@@ -2006,6 +2006,13 @@
   "name": "AVNET INC",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-11-06",
+    "acc": "0000008858-26-000123",
+    "doc": "avt-20261003x10q.htm",
+    "desc": "10-Q"
+   },
+   {
     "form": "8-K",
     "date": "2026-11-04",
     "acc": "0000008858-26-000120",
@@ -2277,13 +2284,6 @@
     "acc": "0001104659-26-096346",
     "doc": "avt-20260627x10k.htm",
     "desc": "10-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-13",
-    "acc": "0000008858-26-000069",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
@@ -4580,6 +4580,13 @@
   "name": "Alphabet Inc.",
   "filings": [
    {
+    "form": "13F-HR",
+    "date": "2026-11-06",
+    "acc": "0001652044-26-000086",
+    "doc": "xslForm13F_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "8-K",
     "date": "2026-11-05",
     "acc": "0001193125-26-449835",
@@ -4851,13 +4858,6 @@
     "acc": "0001193125-26-377149",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
-   },
-   {
-    "form": "144",
-    "date": "2026-08-28",
-    "acc": "0001921094-26-000964",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -11158,6 +11158,13 @@
   "name": "Super Micro Computer, Inc.",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-11-06",
+    "acc": "0001375365-26-000027",
+    "doc": "smci-20260930.htm",
+    "desc": "10-Q"
+   },
+   {
     "form": "8-K",
     "date": "2026-11-03",
     "acc": "0001375365-26-000026",
@@ -11429,13 +11436,6 @@
     "acc": "0002063388-26-000004",
     "doc": "xslF345X06/wk-form4_1787085971.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-08-14",
-    "acc": "0001011712-26-000027",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
