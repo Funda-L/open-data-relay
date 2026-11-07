@@ -7154,6 +7154,13 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-06",
+    "acc": "0000950103-26-017123",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "424B5",
     "date": "2026-11-06",
     "acc": "0001193125-26-450754",
@@ -7423,13 +7430,6 @@
     "form": "144",
     "date": "2026-09-28",
     "acc": "0001921094-26-001053",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-09-24",
-    "acc": "0001921094-26-001050",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
@@ -8870,6 +8870,13 @@
   "name": "Navitas Semiconductor Corp",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-06",
+    "acc": "0001104659-26-124038",
+    "doc": "xslF345X06/tm2629278-1_4seq1.xml",
+    "desc": "OWNERSHIP DOCUMENT"
+   },
+   {
     "form": "SCHEDULE 13G/A",
     "date": "2026-11-06",
     "acc": "0001595888-26-000147",
@@ -9139,13 +9146,6 @@
     "form": "144",
     "date": "2026-05-28",
     "acc": "0001950047-26-005192",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-05-28",
-    "acc": "0001959173-26-004093",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
