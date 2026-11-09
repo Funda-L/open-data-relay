@@ -576,6 +576,13 @@
   "name": "Astera Labs, Inc.",
   "filings": [
    {
+    "form": "144/A",
+    "date": "2026-11-09",
+    "acc": "0001973251-26-000043",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "144",
     "date": "2026-11-05",
     "acc": "0001973251-26-000041",
@@ -847,13 +854,6 @@
     "acc": "0001736297-26-000027",
     "doc": "alab-20260604.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-05",
-    "acc": "0001484394-26-000004",
-    "doc": "xslF345X06/form4-06052026_090646.xml",
-    "desc": ""
    }
   ]
  },
@@ -5438,6 +5438,13 @@
   "name": "INTERNATIONAL BUSINESS MACHINES CORP",
   "filings": [
    {
+    "form": "424B3",
+    "date": "2026-11-09",
+    "acc": "0001104659-26-124179",
+    "doc": "tm2628653-1_424b3.htm",
+    "desc": "424B3"
+   },
+   {
     "form": "25-NSE",
     "date": "2026-11-02",
     "acc": "0000876661-26-000884",
@@ -5707,13 +5714,6 @@
     "form": "4",
     "date": "2026-07-02",
     "acc": "0001183474-26-000004",
-    "doc": "xslF345X06/primarydocument.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-07-02",
-    "acc": "0001738987-26-000003",
     "doc": "xslF345X06/primarydocument.xml",
     "desc": "PRIMARY DOCUMENT"
    }
@@ -10586,6 +10586,13 @@
   "name": "SANMINA CORP",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-09",
+    "acc": "0000897723-26-000044",
+    "doc": "sanm-20261027.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-09-21",
     "acc": "0001104659-26-109286",
@@ -10856,13 +10863,6 @@
     "date": "2026-03-18",
     "acc": "0001104659-26-030936",
     "doc": "xslF345X06/tm269195-6_4seq1.xml",
-    "desc": "OWNERSHIP DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-03-18",
-    "acc": "0001104659-26-030921",
-    "doc": "xslF345X06/tm269195-5_4seq1.xml",
     "desc": "OWNERSHIP DOCUMENT"
    }
   ]
@@ -12016,6 +12016,13 @@
   "name": "TEXAS INSTRUMENTS INC",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-09",
+    "acc": "0001193125-26-453606",
+    "doc": "d180182d8k.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-10-30",
     "acc": "0000097476-26-000178",
@@ -12286,13 +12293,6 @@
     "date": "2026-05-01",
     "acc": "0000097476-26-000126",
     "doc": "xslF345X06/wk-form4_1777668574.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-04-30",
-    "acc": "0000097476-26-000123",
-    "doc": "xslF345X06/wk-form4_1777580913.xml",
     "desc": "FORM 4"
    }
   ]
