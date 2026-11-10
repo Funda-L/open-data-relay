@@ -291,6 +291,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-11-09",
+    "acc": "0000006281-26-000084",
+    "doc": "xslF345X06/wk-form4_1794259926.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
     "date": "2026-11-06",
     "acc": "0000900729-26-000021",
     "doc": "xslF345X06/wk-form4_1793999149.xml",
@@ -561,13 +568,6 @@
     "acc": "0001201872-26-000015",
     "doc": "xslF345X06/wk-form4_1787170951.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-19",
-    "acc": "0002009110-26-000003",
-    "doc": "xslF345X06/wk-form4_1787170913.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -575,6 +575,13 @@
   "cik": "0001736297",
   "name": "Astera Labs, Inc.",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-11-09",
+    "acc": "0001484394-26-000017",
+    "doc": "xslF345X06/form4-11092026_091116.xml",
+    "desc": ""
+   },
    {
     "form": "144/A",
     "date": "2026-11-09",
@@ -847,13 +854,6 @@
     "acc": "0001405693-26-000007",
     "doc": "xslF345X06/wk-form4_1780964359.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-06-08",
-    "acc": "0001736297-26-000027",
-    "doc": "alab-20260604.htm",
-    "desc": "8-K"
    }
   ]
  },
@@ -3437,6 +3437,20 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-11-09",
+    "acc": "0001769628-26-000457",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "144",
+    "date": "2026-11-09",
+    "acc": "0001950047-26-010854",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
     "date": "2026-11-06",
     "acc": "0001769628-26-000453",
     "doc": "xslF345X06/form4.xml",
@@ -3700,20 +3714,6 @@
     "acc": "0001950047-26-009739",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-09-18",
-    "acc": "0001104659-26-109005",
-    "doc": "xslF345X06/tm2625774-1_4seq1.xml",
-    "desc": "OWNERSHIP DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-17",
-    "acc": "0001769628-26-000430",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
@@ -7154,6 +7154,13 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-09",
+    "acc": "0001921094-26-001151",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-11-06",
     "acc": "0000950103-26-017123",
@@ -7425,13 +7432,6 @@
     "acc": "0000950103-26-014647",
     "doc": "xslF345X06/ownership.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "144",
-    "date": "2026-09-28",
-    "acc": "0001921094-26-001053",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -7726,6 +7726,20 @@
   "name": "MICROSOFT CORP",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-09",
+    "acc": "0000789019-26-000230",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
+   },
+   {
+    "form": "DEFA14A",
+    "date": "2026-11-09",
+    "acc": "0001193125-26-453698",
+    "doc": "d136896ddefa14a.htm",
+    "desc": "DEFA14A"
+   },
+   {
     "form": "144",
     "date": "2026-11-05",
     "acc": "0001959173-26-007778",
@@ -7990,20 +8004,6 @@
     "acc": "0001214659-26-011511",
     "doc": "o91268px14a6g.htm",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-09-08",
-    "acc": "0000789019-26-000186",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-08",
-    "acc": "0000789019-26-000185",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
   ]
  },
@@ -8011,6 +8011,55 @@
   "cik": "0001493594",
   "name": "MACOM Technology Solutions Holdings, Inc.",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-11-09",
+    "acc": "0000904454-26-000603",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-09",
+    "acc": "0000904454-26-000601",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-09",
+    "acc": "0000904454-26-000599",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-09",
+    "acc": "0000904454-26-000597",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-09",
+    "acc": "0000904454-26-000595",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "144",
+    "date": "2026-11-09",
+    "acc": "0001950047-26-010857",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-09",
+    "acc": "0001950047-26-010853",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
    {
     "form": "144",
     "date": "2026-11-06",
@@ -8241,55 +8290,6 @@
     "acc": "0001950047-26-005286",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "SD",
-    "date": "2026-05-29",
-    "acc": "0001493594-26-000031",
-    "doc": "mtsi_cy25xsdcoverpage.htm",
-    "desc": "SD"
-   },
-   {
-    "form": "144",
-    "date": "2026-05-26",
-    "acc": "0001193125-26-240094",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-05-21",
-    "acc": "0000904454-26-000317",
-    "doc": "xslF345X06/edgar.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-20",
-    "acc": "0000904454-26-000314",
-    "doc": "xslF345X06/edgar.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-20",
-    "acc": "0000904454-26-000312",
-    "doc": "xslF345X06/edgar.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-20",
-    "acc": "0000904454-26-000310",
-    "doc": "xslF345X06/edgar.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-20",
-    "acc": "0000904454-26-000308",
-    "doc": "xslF345X06/edgar.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
