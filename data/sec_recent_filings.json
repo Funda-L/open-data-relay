@@ -4,6 +4,13 @@
   "name": "APPLIED OPTOELECTRONICS, INC.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-10",
+    "acc": "0001974078-26-000411",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "10-Q",
     "date": "2026-11-05",
     "acc": "0001437749-26-035282",
@@ -273,13 +280,6 @@
     "form": "4",
     "date": "2026-07-23",
     "acc": "0001683168-26-005738",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-07-23",
-    "acc": "0001683168-26-005737",
     "doc": "xslF345X06/ownership.xml",
     "desc": ""
    }
@@ -3437,6 +3437,20 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-11-10",
+    "acc": "0001769628-26-000462",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-11-10",
+    "acc": "0001769628-26-000461",
+    "doc": "crwv-20261110.htm",
+    "desc": "8-K"
+   },
+   {
+    "form": "4",
     "date": "2026-11-09",
     "acc": "0001769628-26-000457",
     "doc": "xslF345X06/form4.xml",
@@ -3698,20 +3712,6 @@
     "form": "144",
     "date": "2026-09-22",
     "acc": "0001950047-26-009746",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-09-22",
-    "acc": "0001950047-26-009741",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-09-22",
-    "acc": "0001950047-26-009739",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
@@ -6868,6 +6868,41 @@
   "name": "MICROCHIP TECHNOLOGY INC",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-10",
+    "acc": "0001181928-26-000040",
+    "doc": "xslF345X06/wk-form4_1794346162.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-10",
+    "acc": "0002035754-26-000028",
+    "doc": "xslF345X06/wk-form4_1794346105.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-10",
+    "acc": "0002152018-26-000011",
+    "doc": "xslF345X06/wk-form4_1794346045.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-10",
+    "acc": "0002035446-26-000030",
+    "doc": "xslF345X06/wk-form4_1794345960.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-10",
+    "acc": "0001452681-26-000045",
+    "doc": "xslF345X06/wk-form4_1794345864.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "S-8",
     "date": "2026-11-05",
     "acc": "0000827054-26-000064",
@@ -7111,41 +7146,6 @@
     "acc": "0000827054-26-000042",
     "doc": "mchp-20260818.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-11",
-    "acc": "0001181928-26-000030",
-    "doc": "xslF345X06/wk-form4_1786482898.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-11",
-    "acc": "0002035754-26-000020",
-    "doc": "xslF345X06/wk-form4_1786482862.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-11",
-    "acc": "0002035446-26-000022",
-    "doc": "xslF345X06/wk-form4_1786482818.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-11",
-    "acc": "0001452681-26-000031",
-    "doc": "xslF345X06/wk-form4_1786482735.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "10-Q",
-    "date": "2026-08-06",
-    "acc": "0000827054-26-000038",
-    "doc": "mchp-20260630.htm",
-    "desc": "10-Q"
    }
   ]
  },
@@ -7440,6 +7440,13 @@
   "name": "MONOLITHIC POWER SYSTEMS, INC.",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-11-10",
+    "acc": "0000914208-26-000440",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-11-05",
     "acc": "0001214659-26-013798",
@@ -7711,13 +7718,6 @@
     "acc": "0001280452-26-000009",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-05-26",
-    "acc": "0001950047-26-005027",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -7725,6 +7725,13 @@
   "cik": "0000789019",
   "name": "MICROSOFT CORP",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-11-10",
+    "acc": "0000789019-26-000232",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
+   },
    {
     "form": "4",
     "date": "2026-11-09",
@@ -7997,13 +8004,6 @@
     "acc": "0000789019-26-000188",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "PX14A6G",
-    "date": "2026-09-09",
-    "acc": "0001214659-26-011511",
-    "doc": "o91268px14a6g.htm",
-    "desc": ""
    }
   ]
  },
@@ -10300,6 +10300,20 @@
   "name": "Rigetti Computing, Inc.",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-11-10",
+    "acc": "0001104659-26-125161",
+    "doc": "rgti-20260930x10q.htm",
+    "desc": "10-Q"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-11-10",
+    "acc": "0001104659-26-125152",
+    "doc": "rgti-20261110x8k.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-09-10",
     "acc": "0001123292-26-001272",
@@ -10564,20 +10578,6 @@
     "acc": "0001123292-26-000720",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "144",
-    "date": "2026-05-22",
-    "acc": "0001967940-26-000019",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-05-21",
-    "acc": "0001967940-26-000018",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -11158,6 +11158,27 @@
   "name": "Super Micro Computer, Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-10",
+    "acc": "0001593123-26-000010",
+    "doc": "xslF345X06/wk-form4_1794346980.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-10",
+    "acc": "0002160181-26-000006",
+    "doc": "xslF345X06/wk-form4_1794346897.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-10",
+    "acc": "0002063388-26-000006",
+    "doc": "xslF345X06/wk-form4_1794346790.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "SCHEDULE 13G/A",
     "date": "2026-11-06",
     "acc": "0001595888-26-000142",
@@ -11415,27 +11436,6 @@
     "acc": "0001126026-26-000001",
     "doc": "xslF345X06/wk-form4_1787086142.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-18",
-    "acc": "0001201306-26-000002",
-    "doc": "xslF345X06/wk-form4_1787086096.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-18",
-    "acc": "0002034568-26-000003",
-    "doc": "xslF345X06/wk-form4_1787086055.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-18",
-    "acc": "0001921058-26-000002",
-    "doc": "xslF345X06/wk-form4_1787086016.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -11443,6 +11443,13 @@
   "cik": "0000088941",
   "name": "SEMTECH CORP",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-11-10",
+    "acc": "0001156899-26-000037",
+    "doc": "xslF345X06/wk-form4_1794344557.xml",
+    "desc": "FORM 4"
+   },
    {
     "form": "144",
     "date": "2026-11-06",
@@ -11715,13 +11722,6 @@
     "acc": "0001969223-26-000781",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-07-14",
-    "acc": "0001156899-26-000027",
-    "doc": "xslF345X06/wk-form4_1784059275.xml",
-    "desc": "FORM 4"
    }
   ]
  },
