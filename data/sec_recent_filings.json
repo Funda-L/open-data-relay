@@ -3436,6 +3436,13 @@
   "name": "CoreWeave, Inc.",
   "filings": [
    {
+    "form": "10-Q",
+    "date": "2026-11-12",
+    "acc": "0001769628-26-000465",
+    "doc": "crwv-20260930.htm",
+    "desc": "10-Q"
+   },
+   {
     "form": "4",
     "date": "2026-11-10",
     "acc": "0001769628-26-000462",
@@ -3707,13 +3714,6 @@
     "acc": "0001769628-26-000432",
     "doc": "crwv-20260917.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "144",
-    "date": "2026-09-22",
-    "acc": "0001950047-26-009746",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -8012,6 +8012,13 @@
   "name": "MACOM Technology Solutions Holdings, Inc.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-12",
+    "acc": "0001950047-26-010987",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-11-09",
     "acc": "0000904454-26-000603",
@@ -8283,13 +8290,6 @@
     "acc": "0000904454-26-000328",
     "doc": "xslF345X06/edgar.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "144",
-    "date": "2026-05-29",
-    "acc": "0001950047-26-005286",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -8297,6 +8297,13 @@
   "cik": "0001513845",
   "name": "Nebius Group N.V.",
   "filings": [
+   {
+    "form": "6-K",
+    "date": "2026-11-12",
+    "acc": "0001104659-26-126008",
+    "doc": "tm2629571d1_6k.htm",
+    "desc": "FORM 6-K"
+   },
    {
     "form": "4",
     "date": "2026-11-02",
@@ -8568,13 +8575,6 @@
     "date": "2026-08-20",
     "acc": "0001104659-26-098924",
     "doc": "tm2623617d1_6k.htm",
-    "desc": "FORM 6-K"
-   },
-   {
-    "form": "6-K",
-    "date": "2026-08-19",
-    "acc": "0001104659-26-098590",
-    "doc": "tm2623513d1_6k.htm",
     "desc": "FORM 6-K"
    }
   ]
@@ -12016,6 +12016,13 @@
   "name": "TEXAS INSTRUMENTS INC",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-12",
+    "acc": "0001969223-26-001168",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "8-K",
     "date": "2026-11-09",
     "acc": "0001193125-26-453606",
@@ -12286,13 +12293,6 @@
     "date": "2026-05-01",
     "acc": "0000097476-26-000127",
     "doc": "xslF345X06/wk-form4_1777668580.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-01",
-    "acc": "0000097476-26-000126",
-    "doc": "xslF345X06/wk-form4_1777668574.xml",
     "desc": "FORM 4"
    }
   ]
@@ -12874,6 +12874,13 @@
   "name": "VISHAY INTERTECHNOLOGY INC",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-12",
+    "acc": "0000103730-26-000083",
+    "doc": "vsh-20261112.htm",
+    "desc": "CURRENT REPORT"
+   },
+   {
     "form": "10-Q",
     "date": "2026-11-04",
     "acc": "0000103730-26-000080",
@@ -13145,13 +13152,6 @@
     "acc": "0000103730-26-000019",
     "doc": "form10k.htm",
     "desc": ""
-   },
-   {
-    "form": "8-K",
-    "date": "2026-02-12",
-    "acc": "0000103730-26-000015",
-    "doc": "form8-k.htm",
-    "desc": "CURRENT REPORT"
    }
   ]
  },
