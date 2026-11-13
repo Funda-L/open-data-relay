@@ -3436,6 +3436,13 @@
   "name": "CoreWeave, Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-13",
+    "acc": "0001769628-26-000466",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "10-Q",
     "date": "2026-11-12",
     "acc": "0001769628-26-000465",
@@ -3707,13 +3714,6 @@
     "acc": "0001769628-26-000433",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-09-22",
-    "acc": "0001769628-26-000432",
-    "doc": "crwv-20260917.htm",
-    "desc": "8-K"
    }
   ]
  },
@@ -4008,6 +4008,13 @@
   "name": "DIODES INC /DEL/",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-13",
+    "acc": "0001950047-26-011096",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "8-K",
     "date": "2026-11-12",
     "acc": "0001193125-26-458676",
@@ -4279,13 +4286,6 @@
     "acc": "0001950047-26-004864",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-05-19",
-    "acc": "0001726369-26-000002",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
    }
   ]
  },
@@ -5438,6 +5438,13 @@
   "name": "INTERNATIONAL BUSINESS MACHINES CORP",
   "filings": [
    {
+    "form": "FWP",
+    "date": "2026-11-13",
+    "acc": "0001104659-26-127130",
+    "doc": "tm2628653d3_fwp.htm",
+    "desc": "FWP"
+   },
+   {
     "form": "424B3",
     "date": "2026-11-09",
     "acc": "0001104659-26-124179",
@@ -5707,13 +5714,6 @@
     "form": "4",
     "date": "2026-07-02",
     "acc": "0001453149-26-000007",
-    "doc": "xslF345X06/primarydocument.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-07-02",
-    "acc": "0001183474-26-000004",
     "doc": "xslF345X06/primarydocument.xml",
     "desc": "PRIMARY DOCUMENT"
    }
@@ -6010,6 +6010,20 @@
   "name": "IonQ, Inc.",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-13",
+    "acc": "0001193125-26-461016",
+    "doc": "ionq-20261110.htm",
+    "desc": "8-K"
+   },
+   {
+    "form": "424B7",
+    "date": "2026-11-13",
+    "acc": "0001193125-26-461012",
+    "doc": "ionq-20261113.htm",
+    "desc": "424B7"
+   },
+   {
     "form": "S-8",
     "date": "2026-11-05",
     "acc": "0001193125-26-449860",
@@ -6272,20 +6286,6 @@
     "form": "4",
     "date": "2026-06-18",
     "acc": "0001193125-26-276343",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-18",
-    "acc": "0001193125-26-276341",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-18",
-    "acc": "0001193125-26-276340",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
    }
@@ -7440,6 +7440,13 @@
   "name": "MONOLITHIC POWER SYSTEMS, INC.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-13",
+    "acc": "0001214659-26-014159",
+    "doc": "xslF345X06/marketforms-74288.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "SCHEDULE 13G/A",
     "date": "2026-11-10",
     "acc": "0000914208-26-000440",
@@ -7711,13 +7718,6 @@
     "acc": "0001214659-26-006798",
     "doc": "xslF345X06/marketforms-73255.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "144",
-    "date": "2026-05-26",
-    "acc": "0001280452-26-000009",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -8012,6 +8012,13 @@
   "name": "MACOM Technology Solutions Holdings, Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-13",
+    "acc": "0000904454-26-000619",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "144",
     "date": "2026-11-12",
     "acc": "0001950047-26-011031",
@@ -8283,13 +8290,6 @@
     "acc": "0001493594-26-000036",
     "doc": "mtsi-20260806.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-07-08",
-    "acc": "0002012383-26-001945",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -8297,6 +8297,20 @@
   "cik": "0001513845",
   "name": "Nebius Group N.V.",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-11-13",
+    "acc": "0001513845-26-000149",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "144",
+    "date": "2026-11-13",
+    "acc": "0001950047-26-011076",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
    {
     "form": "6-K",
     "date": "2026-11-12",
@@ -8562,20 +8576,6 @@
     "acc": "0001973379-26-000316",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "6-K",
-    "date": "2026-08-26",
-    "acc": "0001104659-26-101076",
-    "doc": "tm2624077d1_6k.htm",
-    "desc": "FORM 6-K"
-   },
-   {
-    "form": "6-K",
-    "date": "2026-08-24",
-    "acc": "0001104659-26-100347",
-    "doc": "tm2623863d1_6k.htm",
-    "desc": "FORM 6-K"
    }
   ]
  },
@@ -8583,6 +8583,13 @@
   "cik": "0000932696",
   "name": "INSIGHT ENTERPRISES INC",
   "filings": [
+   {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-11-13",
+    "acc": "0000895421-26-000320",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
    {
     "form": "10-Q",
     "date": "2026-11-05",
@@ -8853,13 +8860,6 @@
     "form": "4",
     "date": "2026-05-15",
     "acc": "0001193125-26-226821",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-15",
-    "acc": "0001193125-26-226803",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
    }
@@ -12016,6 +12016,13 @@
   "name": "TEXAS INSTRUMENTS INC",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-13",
+    "acc": "0001646850-26-000006",
+    "doc": "xslF345X06/wk-form4_1794604269.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "144",
     "date": "2026-11-12",
     "acc": "0001969223-26-001168",
@@ -12287,13 +12294,6 @@
     "acc": "0001969223-26-000487",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-05-01",
-    "acc": "0000097476-26-000127",
-    "doc": "xslF345X06/wk-form4_1777668580.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -13446,6 +13446,13 @@
   "name": "Quantinuum Inc.",
   "filings": [
    {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-11-13",
+    "acc": "0001422848-26-000140",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "10-Q",
     "date": "2026-11-10",
     "acc": "0001628280-26-072454",
@@ -13716,13 +13723,6 @@
     "date": "2026-06-04",
     "acc": "0001628280-26-040987",
     "doc": "xslF345X06/wk-form3_1780615078.xml",
-    "desc": "FORM 3"
-   },
-   {
-    "form": "3",
-    "date": "2026-06-04",
-    "acc": "0001628280-26-040986",
-    "doc": "xslF345X06/wk-form3_1780615073.xml",
     "desc": "FORM 3"
    }
   ]
