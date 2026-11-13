@@ -1720,6 +1720,13 @@
   "name": "ARROW ELECTRONICS, INC.",
   "filings": [
    {
+    "form": "SCHEDULE 13G",
+    "date": "2026-11-13",
+    "acc": "0001167557-26-000267",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "10-Q",
     "date": "2026-11-05",
     "acc": "0001104659-26-123063",
@@ -1991,13 +1998,6 @@
     "acc": "0000007536-26-000092",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-14",
-    "acc": "0000007536-26-000090",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
@@ -2005,6 +2005,13 @@
   "cik": "0000008858",
   "name": "AVNET INC",
   "filings": [
+   {
+    "form": "SCHEDULE 13G",
+    "date": "2026-11-13",
+    "acc": "0001167557-26-000268",
+    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
+    "desc": ""
+   },
    {
     "form": "10-Q",
     "date": "2026-11-06",
@@ -2277,13 +2284,6 @@
     "acc": "0001104659-26-096398",
     "doc": "avt-20260814xs3asr.htm",
     "desc": "S-3ASR"
-   },
-   {
-    "form": "10-K",
-    "date": "2026-08-14",
-    "acc": "0001104659-26-096346",
-    "doc": "avt-20260627x10k.htm",
-    "desc": "10-K"
    }
   ]
  },
@@ -12588,6 +12588,13 @@
   "name": "Vertiv Holdings Co",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-13",
+    "acc": "0001628280-26-073564",
+    "doc": "vrt-20261113.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "10-Q",
     "date": "2026-10-28",
     "acc": "0001628280-26-067893",
@@ -12859,13 +12866,6 @@
     "acc": "0001628280-26-044317",
     "doc": "vrt-20260617.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "11-K",
-    "date": "2026-06-17",
-    "acc": "0001628280-26-043906",
-    "doc": "vrt-20260617.htm",
-    "desc": "11-K"
    }
   ]
  },
