@@ -7440,6 +7440,13 @@
   "name": "MONOLITHIC POWER SYSTEMS, INC.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-13",
+    "acc": "0001280452-26-000021",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-11-13",
     "acc": "0001214659-26-014159",
@@ -7710,13 +7717,6 @@
     "date": "2026-05-27",
     "acc": "0001214659-26-006804",
     "doc": "xslF345X06/marketforms-73276.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-27",
-    "acc": "0001214659-26-006798",
-    "doc": "xslF345X06/marketforms-73255.xml",
     "desc": "PRIMARY DOCUMENT"
    }
   ]
