@@ -4008,6 +4008,13 @@
   "name": "DIODES INC /DEL/",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001193125-26-464977",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "4"
+   },
+   {
     "form": "144",
     "date": "2026-11-13",
     "acc": "0001950047-26-011096",
@@ -4279,13 +4286,6 @@
     "acc": "0001726369-26-000004",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
-   },
-   {
-    "form": "144",
-    "date": "2026-05-20",
-    "acc": "0001950047-26-004864",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -8298,6 +8298,13 @@
   "name": "Nebius Group N.V.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001513845-26-000151",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "SCHEDULE 13G/A",
     "date": "2026-11-16",
     "acc": "0000935836-26-000604",
@@ -8567,13 +8574,6 @@
     "form": "4",
     "date": "2026-09-03",
     "acc": "0001513845-26-000096",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-02",
-    "acc": "0001513845-26-000094",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
    }
