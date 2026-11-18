@@ -5,6 +5,20 @@
   "filings": [
    {
     "form": "8-K",
+    "date": "2026-11-17",
+    "acc": "0001104659-26-129055",
+    "doc": "tm2629531d2_8k.htm",
+    "desc": "FORM 8-K"
+   },
+   {
+    "form": "424B5",
+    "date": "2026-11-17",
+    "acc": "0001104659-26-129051",
+    "doc": "tm2629531-1_424b5.htm",
+    "desc": "424B5"
+   },
+   {
+    "form": "8-K",
     "date": "2026-11-12",
     "acc": "0001683168-26-008616",
     "doc": "aaoi_8k.htm",
@@ -267,20 +281,6 @@
     "date": "2026-08-04",
     "acc": "0001974078-26-000290",
     "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-07-27",
-    "acc": "0002012383-26-002182",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-07-23",
-    "acc": "0001683168-26-005740",
-    "doc": "xslF345X06/ownership.xml",
     "desc": ""
    }
   ]
@@ -862,6 +862,48 @@
   "name": "AMAZON COM INC",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001936006-26-000030",
+    "doc": "xslF345X06/wk-form4_1794951971.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001018724-26-000054",
+    "doc": "xslF345X06/wk-form4_1794951713.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001018724-26-000052",
+    "doc": "xslF345X06/wk-form4_1794951462.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001018724-26-000050",
+    "doc": "xslF345X06/wk-form4_1794951114.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001018724-26-000048",
+    "doc": "xslF345X06/wk-form4_1794950800.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001018724-26-000046",
+    "doc": "xslF345X06/wk-form4_1794950452.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "144",
     "date": "2026-11-16",
     "acc": "0001950047-26-011194",
@@ -1098,48 +1140,6 @@
     "acc": "0001628280-26-058401",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-08-21",
-    "acc": "0001959173-26-006313",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-08-21",
-    "acc": "0001959173-26-006312",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-08-21",
-    "acc": "0001959173-26-006299",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-08-19",
-    "acc": "0001936006-26-000020",
-    "doc": "xslF345X06/wk-form4_1787174724.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "EFFECT",
-    "date": "2026-08-18",
-    "acc": "9999999995-26-002695",
-    "doc": "xslEFFECTX01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "424B3",
-    "date": "2026-08-18",
-    "acc": "0001104659-26-098339",
-    "doc": "tm2617924-6_424b3.htm",
-    "desc": "424B3"
    }
   ]
  },
@@ -2292,6 +2292,27 @@
   "name": "Bloom Energy Corp",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001193125-26-465823",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001193125-26-465821",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001193125-26-465814",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "4"
+   },
+   {
     "form": "144",
     "date": "2026-11-16",
     "acc": "0001950047-26-011173",
@@ -2547,27 +2568,6 @@
     "form": "144",
     "date": "2026-08-13",
     "acc": "0001950047-26-008089",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-08-04",
-    "acc": "0001193125-26-333129",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "SCHEDULE 13G",
-    "date": "2026-08-04",
-    "acc": "0001595888-26-000077",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-08-03",
-    "acc": "0001950047-26-007520",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
@@ -4294,6 +4294,13 @@
   "name": "FLEX LTD.",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-17",
+    "acc": "0001193125-26-465504",
+    "doc": "d356429d8k.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "SCHEDULE 13G",
     "date": "2026-11-16",
     "acc": "0000902219-26-000329",
@@ -4564,13 +4571,6 @@
     "date": "2026-09-04",
     "acc": "0001193125-26-382685",
     "doc": "d105596ddefa14a.htm",
-    "desc": "DEFA14A"
-   },
-   {
-    "form": "DEFA14A",
-    "date": "2026-09-04",
-    "acc": "0001193125-26-382496",
-    "doc": "d108491ddefa14a.htm",
     "desc": "DEFA14A"
    }
   ]
@@ -7154,6 +7154,111 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0000950103-26-017707",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0000950103-26-017706",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0000950103-26-017705",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0000950103-26-017704",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0000950103-26-017703",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0000950103-26-017702",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0000950103-26-017701",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0000950103-26-017700",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0000950103-26-017699",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0000950103-26-017698",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0000950103-26-017697",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0000950103-26-017696",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "144",
+    "date": "2026-11-17",
+    "acc": "0001921094-26-001206",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-17",
+    "acc": "0001921094-26-001205",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-17",
+    "acc": "0001921094-26-001204",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "144",
     "date": "2026-11-16",
     "acc": "0001921094-26-001197",
@@ -7327,111 +7432,6 @@
     "acc": "0000950103-26-016314",
     "doc": "xslF345X06/ownership.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-10-28",
-    "acc": "0000950103-26-016313",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "424B5",
-    "date": "2026-10-28",
-    "acc": "0001193125-26-436410",
-    "doc": "d94886d424b5.htm",
-    "desc": "424B5 FORWARD PROSUPP"
-   },
-   {
-    "form": "424B5",
-    "date": "2026-10-28",
-    "acc": "0001193125-26-436405",
-    "doc": "d133631d424b5.htm",
-    "desc": "424B5"
-   },
-   {
-    "form": "FWP",
-    "date": "2026-10-27",
-    "acc": "0001193125-26-432549",
-    "doc": "d382225dfwp.htm",
-    "desc": "FWP"
-   },
-   {
-    "form": "144",
-    "date": "2026-10-26",
-    "acc": "0001921094-26-001117",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-10-26",
-    "acc": "0001921094-26-001116",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "424B5",
-    "date": "2026-10-26",
-    "acc": "0001193125-26-431043",
-    "doc": "d133631d424b5.htm",
-    "desc": "424B5"
-   },
-   {
-    "form": "424B5",
-    "date": "2026-10-26",
-    "acc": "0001193125-26-431040",
-    "doc": "d94886d424b5.htm",
-    "desc": "424B5 FORWARD PROSUPP"
-   },
-   {
-    "form": "FWP",
-    "date": "2026-10-26",
-    "acc": "0001193125-26-431036",
-    "doc": "d116268dfwp.htm",
-    "desc": "FWP"
-   },
-   {
-    "form": "S-3ASR",
-    "date": "2026-10-26",
-    "acc": "0001193125-26-431009",
-    "doc": "d127909ds3asr.htm",
-    "desc": "S-3ASR"
-   },
-   {
-    "form": "10-Q",
-    "date": "2026-10-22",
-    "acc": "0001628280-26-066773",
-    "doc": "meta-20260930.htm",
-    "desc": "10-Q"
-   },
-   {
-    "form": "4",
-    "date": "2026-10-21",
-    "acc": "0000950103-26-015980",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "PRE 14C",
-    "date": "2026-10-21",
-    "acc": "0001628280-26-066710",
-    "doc": "meta-20261021.htm",
-    "desc": "PRE 14C"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-10-21",
-    "acc": "0001628280-26-066700",
-    "doc": "meta-20261019.htm",
-    "desc": "8-K"
-   },
-   {
-    "form": "144",
-    "date": "2026-10-19",
-    "acc": "0001921094-26-001104",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -7439,6 +7439,20 @@
   "cik": "0001280452",
   "name": "MONOLITHIC POWER SYSTEMS, INC.",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001214659-26-014526",
+    "doc": "xslF345X06/marketforms-74355.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001214659-26-014525",
+    "doc": "xslF345X06/marketforms-74332.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
    {
     "form": "144",
     "date": "2026-11-16",
@@ -7704,20 +7718,6 @@
     "acc": "0001950047-26-005349",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-05-29",
-    "acc": "0001214659-26-006933",
-    "doc": "xslF345X06/marketforms-73294.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "SD",
-    "date": "2026-05-29",
-    "acc": "0001437749-26-018857",
-    "doc": "mpwr20260527_sd.htm",
-    "desc": "FORM SD"
    }
   ]
  },
@@ -10014,6 +10014,27 @@
   "name": "D-Wave Quantum Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001907982-26-000190",
+    "doc": "xslF345X06/wk-form4_1794961475.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001907982-26-000189",
+    "doc": "xslF345X06/wk-form4_1794961426.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001907982-26-000188",
+    "doc": "xslF345X06/wk-form4_1794961369.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "10-Q",
     "date": "2026-11-16",
     "acc": "0001907982-26-000186",
@@ -10270,27 +10291,6 @@
     "date": "2026-08-05",
     "acc": "0001907982-26-000123",
     "doc": "qbts-20260805.htm",
-    "desc": "8-K"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-08-03",
-    "acc": "0001907982-26-000119",
-    "doc": "qbts-20260803.htm",
-    "desc": "8-K"
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-07-29",
-    "acc": "0002012383-26-002797",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "8-K",
-    "date": "2026-07-27",
-    "acc": "0001907982-26-000117",
-    "doc": "qbts-20260727.htm",
     "desc": "8-K"
    }
   ]
@@ -10586,6 +10586,20 @@
   "name": "SANMINA CORP",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001104659-26-129042",
+    "doc": "xslF345X06/tm2630067-1_4seq1.xml",
+    "desc": "OWNERSHIP DOCUMENT"
+   },
+   {
+    "form": "10-K",
+    "date": "2026-11-17",
+    "acc": "0000897723-26-000048",
+    "doc": "sanm-20261003.htm",
+    "desc": "10-K"
+   },
+   {
     "form": "8-K",
     "date": "2026-11-09",
     "acc": "0000897723-26-000044",
@@ -10850,20 +10864,6 @@
     "acc": "0000102909-26-002205",
     "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-03-18",
-    "acc": "0001104659-26-030955",
-    "doc": "xslF345X06/tm269195-7_4seq1.xml",
-    "desc": "OWNERSHIP DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-03-18",
-    "acc": "0001104659-26-030936",
-    "doc": "xslF345X06/tm269195-6_4seq1.xml",
-    "desc": "OWNERSHIP DOCUMENT"
    }
   ]
  },
@@ -11730,6 +11730,13 @@
   "name": "TD SYNNEX CORP",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001177394-26-000141",
+    "doc": "xslF345X06/wk-form4_1794953544.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "8-K",
     "date": "2026-11-05",
     "acc": "0001628280-26-071079",
@@ -12001,13 +12008,6 @@
     "acc": "0001628280-26-048449",
     "doc": "snx-20260710.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-07-07",
-    "acc": "0001177394-26-000078",
-    "doc": "xslF345X06/wk-form4_1783459126.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -12588,6 +12588,13 @@
   "name": "Vertiv Holdings Co",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001628280-26-074512",
+    "doc": "xslF345X06/wk-form4_1794950986.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "8-K",
     "date": "2026-11-13",
     "acc": "0001628280-26-073564",
@@ -12859,13 +12866,6 @@
     "acc": "0001628280-26-044362",
     "doc": "xslF345X06/wk-form3_1781814706.xml",
     "desc": "FORM 3"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-06-18",
-    "acc": "0001628280-26-044317",
-    "doc": "vrt-20260617.htm",
-    "desc": "8-K"
    }
   ]
  },
@@ -12873,6 +12873,13 @@
   "cik": "0000103730",
   "name": "VISHAY INTERTECHNOLOGY INC",
   "filings": [
+   {
+    "form": "8-K",
+    "date": "2026-11-17",
+    "acc": "0000103730-26-000086",
+    "doc": "vsh-20261117.htm",
+    "desc": "CURRENT REPORT"
+   },
    {
     "form": "8-K",
     "date": "2026-11-12",
@@ -13145,13 +13152,6 @@
     "acc": "0000902664-26-001063",
     "doc": "xslSCHEDULE_13G_X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "10-K",
-    "date": "2026-02-13",
-    "acc": "0000103730-26-000019",
-    "doc": "form10k.htm",
-    "desc": ""
    }
   ]
  },
@@ -13159,6 +13159,13 @@
   "cik": "0002007825",
   "name": "Infleqtion, Inc.",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "acc": "0001628280-26-074569",
+    "doc": "xslF345X06/wk-form4_1794952948.xml",
+    "desc": "FORM 4"
+   },
    {
     "form": "424B3",
     "date": "2026-11-16",
@@ -13431,13 +13438,6 @@
     "acc": "0001104659-26-050373",
     "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-04-24",
-    "acc": "0001104659-26-048517",
-    "doc": "xslF345X06/tm2612667-1_4seq1.xml",
-    "desc": "OWNERSHIP DOCUMENT"
    }
   ]
  },
