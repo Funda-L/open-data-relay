@@ -862,6 +862,13 @@
   "name": "AMAZON COM INC",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-20",
+    "acc": "0001018724-26-000056",
+    "doc": "xslF345X06/wk-form4_1795209411.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "144",
     "date": "2026-11-18",
     "acc": "0001959173-26-008114",
@@ -1131,13 +1138,6 @@
     "form": "144",
     "date": "2026-08-24",
     "acc": "0001959173-26-006360",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-08-21",
-    "acc": "0001950047-26-008542",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
@@ -2006,6 +2006,13 @@
   "name": "AVNET INC",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-20",
+    "acc": "0000008858-26-000128",
+    "doc": "avt-20261117x8k.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "SCHEDULE 13G",
     "date": "2026-11-13",
     "acc": "0001167557-26-000268",
@@ -2277,13 +2284,6 @@
     "acc": "0001104659-26-096400",
     "doc": "avt-20260814xs8.htm",
     "desc": "S-8"
-   },
-   {
-    "form": "S-3ASR",
-    "date": "2026-08-14",
-    "acc": "0001104659-26-096398",
-    "doc": "avt-20260814xs3asr.htm",
-    "desc": "S-3ASR"
    }
   ]
  },
@@ -3436,6 +3436,41 @@
   "name": "CoreWeave, Inc.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-20",
+    "acc": "0001950047-26-011410",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-20",
+    "acc": "0001950047-26-011403",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-20",
+    "acc": "0001950047-26-011402",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-20",
+    "acc": "0001950047-26-011401",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-20",
+    "acc": "0001950047-26-011397",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-11-13",
     "acc": "0001769628-26-000466",
@@ -3679,41 +3714,6 @@
     "acc": "0001950047-26-009877",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-09-29",
-    "acc": "0001950047-26-009860",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-09-29",
-    "acc": "0001950047-26-009859",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-09-24",
-    "acc": "0001769628-26-000435",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-24",
-    "acc": "0001769628-26-000434",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-22",
-    "acc": "0001769628-26-000433",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
@@ -4580,6 +4580,13 @@
   "name": "Alphabet Inc.",
   "filings": [
    {
+    "form": "8-A12B",
+    "date": "2026-11-20",
+    "acc": "0001193125-26-470391",
+    "doc": "d142213d8a12b.htm",
+    "desc": "8-A12B"
+   },
+   {
     "form": "FWP",
     "date": "2026-11-20",
     "acc": "0001193125-26-469213",
@@ -4849,13 +4856,6 @@
     "form": "4",
     "date": "2026-09-16",
     "acc": "0001193125-26-393503",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-16",
-    "acc": "0001193125-26-393500",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
    }
@@ -8012,6 +8012,13 @@
   "name": "MACOM Technology Solutions Holdings, Inc.",
   "filings": [
    {
+    "form": "4/A",
+    "date": "2026-11-20",
+    "acc": "0000904454-26-000638",
+    "doc": "xslF345X06/edgar.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "4",
     "date": "2026-11-16",
     "acc": "0000904454-26-000631",
@@ -8283,13 +8290,6 @@
     "acc": "0001950047-26-008812",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-08-19",
-    "acc": "0000904454-26-000468",
-    "doc": "xslF345X06/edgar.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
@@ -8297,6 +8297,13 @@
   "cik": "0001513845",
   "name": "Nebius Group N.V.",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-11-20",
+    "acc": "0001513845-26-000156",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
    {
     "form": "4",
     "date": "2026-11-17",
@@ -8567,13 +8574,6 @@
     "form": "4",
     "date": "2026-09-03",
     "acc": "0001513845-26-000098",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-03",
-    "acc": "0001513845-26-000096",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
    }
@@ -9442,6 +9442,20 @@
   "name": "ORACLE CORP",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-20",
+    "acc": "0001341439-26-000127",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "8-K",
+    "date": "2026-11-20",
+    "acc": "0001193125-26-470351",
+    "doc": "orcl-20261118.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "8-K",
     "date": "2026-11-04",
     "acc": "0001193125-26-447507",
@@ -9706,20 +9720,6 @@
     "acc": "0001341439-26-000079",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "144",
-    "date": "2026-09-16",
-    "acc": "0001959173-26-006996",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "8-K",
-    "date": "2026-09-14",
-    "acc": "0001193125-26-389753",
-    "doc": "d20034d8k.htm",
-    "desc": "8-K"
    }
   ]
  },
@@ -10300,6 +10300,48 @@
   "name": "Rigetti Computing, Inc.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-20",
+    "acc": "0001967940-26-000060",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-20",
+    "acc": "0001967940-26-000059",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-20",
+    "acc": "0001967940-26-000058",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "4",
+    "date": "2026-11-20",
+    "acc": "0001123292-26-001552",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-20",
+    "acc": "0001123292-26-001551",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-20",
+    "acc": "0001123292-26-001550",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
+   },
+   {
     "form": "10-Q",
     "date": "2026-11-10",
     "acc": "0001104659-26-125161",
@@ -10534,48 +10576,6 @@
     "form": "4",
     "date": "2026-06-01",
     "acc": "0001123292-26-000776",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "144",
-    "date": "2026-05-29",
-    "acc": "0001967940-26-000025",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-05-28",
-    "acc": "0001967940-26-000023",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-05-26",
-    "acc": "0001123292-26-000745",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-26",
-    "acc": "0001123292-26-000744",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "144",
-    "date": "2026-05-22",
-    "acc": "0001967940-26-000020",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-05-22",
-    "acc": "0001123292-26-000720",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
@@ -11445,6 +11445,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-11-20",
+    "acc": "0001628280-26-075250",
+    "doc": "xslF345X06/wk-form4_1795208671.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
     "date": "2026-11-10",
     "acc": "0001156899-26-000037",
     "doc": "xslF345X06/wk-form4_1794344557.xml",
@@ -11715,13 +11722,6 @@
     "acc": "0001514954-26-000029",
     "doc": "xslF345X06/wk-form4_1784232074.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "144",
-    "date": "2026-07-14",
-    "acc": "0001969223-26-000781",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
