@@ -4867,6 +4867,20 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-11-19",
+    "acc": "0002052022-26-000011",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
+   },
+   {
+    "form": "3",
+    "date": "2026-11-19",
+    "acc": "0002052022-26-000010",
+    "doc": "xslF345X06/form3.xml",
+    "desc": "INITIAL STATEMENT OF BENEFICIAL OWNERSHIP OF SECURITIES"
+   },
+   {
+    "form": "4",
     "date": "2026-11-18",
     "acc": "0001560849-26-000015",
     "doc": "xslF345X06/form4.xml",
@@ -5130,20 +5144,6 @@
     "acc": "0001655996-26-000008",
     "doc": "xslF345X06/form3.xml",
     "desc": "INITIAL STATEMENT OF BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "S-8",
-    "date": "2026-06-02",
-    "acc": "0001645590-26-000058",
-    "doc": "forms-82021sipamendment5.htm",
-    "desc": "S-8"
-   },
-   {
-    "form": "10-Q",
-    "date": "2026-06-02",
-    "acc": "0001645590-26-000055",
-    "doc": "hpe-20260430.htm",
-    "desc": "10-Q"
    }
   ]
  },
@@ -7155,6 +7155,27 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-11-19",
+    "acc": "0000950103-26-017904",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-19",
+    "acc": "0000950103-26-017902",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-19",
+    "acc": "0000950103-26-017900",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
     "date": "2026-11-17",
     "acc": "0000950103-26-017707",
     "doc": "xslF345X06/ownership.xml",
@@ -7411,27 +7432,6 @@
     "acc": "0001354457-26-001039",
     "doc": "METAM_8A_Cert.pdf",
     "desc": ""
-   },
-   {
-    "form": "8-A12B",
-    "date": "2026-10-29",
-    "acc": "0001193125-26-438111",
-    "doc": "d184794d8a12b.htm",
-    "desc": "8-A12B"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-10-29",
-    "acc": "0001193125-26-438017",
-    "doc": "d183592d8k.htm",
-    "desc": "8-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-10-28",
-    "acc": "0000950103-26-016314",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "FORM 4"
    }
   ]
  },
