@@ -862,6 +862,55 @@
   "name": "AMAZON COM INC",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-23",
+    "acc": "0001950047-26-011447",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-23",
+    "acc": "0001950047-26-011446",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-23",
+    "acc": "0001628280-26-075452",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-23",
+    "acc": "0001959173-26-008213",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144/A",
+    "date": "2026-11-23",
+    "acc": "0001959173-26-008212",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-23",
+    "acc": "0001959173-26-008211",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
+    "date": "2026-11-23",
+    "acc": "0001959173-26-008210",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-11-20",
     "acc": "0001018724-26-000056",
@@ -1091,55 +1140,6 @@
     "acc": "0001043298-26-000002",
     "doc": "xslF345X06/wk-form4_1787862279.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-25",
-    "acc": "0001374545-26-000010",
-    "doc": "xslF345X06/wk-form4_1787692115.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-25",
-    "acc": "0002024813-26-000010",
-    "doc": "xslF345X06/wk-form4_1787691690.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-25",
-    "acc": "0001936006-26-000022",
-    "doc": "xslF345X06/wk-form4_1787691176.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-25",
-    "acc": "0001557979-26-000008",
-    "doc": "xslF345X06/wk-form4_1787690696.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-25",
-    "acc": "0001639902-26-000008",
-    "doc": "xslF345X06/wk-form4_1787690246.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-25",
-    "acc": "0001397333-26-000006",
-    "doc": "xslF345X06/wk-form4_1787689790.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "144",
-    "date": "2026-08-24",
-    "acc": "0001959173-26-006360",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -1720,6 +1720,13 @@
   "name": "ARROW ELECTRONICS, INC.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-23",
+    "acc": "0001959173-26-008204",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-11-16",
     "acc": "0000007536-26-000158",
@@ -1989,13 +1996,6 @@
     "form": "4",
     "date": "2026-05-18",
     "acc": "0000007536-26-000103",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-14",
-    "acc": "0000007536-26-000101",
     "doc": "xslF345X06/form4.xml",
     "desc": "PRIMARY DOCUMENT"
    }
@@ -2865,6 +2865,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-11-23",
+    "acc": "0001628280-26-075508",
+    "doc": "xslF345X06/wk-form4_1795468994.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
     "date": "2026-10-29",
     "acc": "0001628280-26-068203",
     "doc": "xslF345X06/wk-form4_1793304074.xml",
@@ -3135,13 +3142,6 @@
     "acc": "0001628280-26-058938",
     "doc": "ars10-k2026.htm",
     "desc": "ARS"
-   },
-   {
-    "form": "DEF 14A",
-    "date": "2026-08-25",
-    "acc": "0001628280-26-058936",
-    "doc": "crdo-20260825.htm",
-    "desc": "DEF 14A"
    }
   ]
  },
@@ -3149,6 +3149,13 @@
   "cik": "0000772406",
   "name": "CIRRUS LOGIC, INC.",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-11-23",
+    "acc": "0001777830-26-000022",
+    "doc": "xslF345X06/wk-form4_1795468357.xml",
+    "desc": "FORM 4"
+   },
    {
     "form": "10-Q",
     "date": "2026-11-04",
@@ -3421,13 +3428,6 @@
     "acc": "0001777845-26-000008",
     "doc": "xslF345X06/wk-form4_1779827774.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "144",
-    "date": "2026-05-21",
-    "acc": "0001950047-26-004889",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -3722,6 +3722,13 @@
   "name": "Dell Technologies Inc.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-23",
+    "acc": "0001959173-26-008202",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-10-26",
     "acc": "0001662205-26-000021",
@@ -3993,13 +4000,6 @@
     "acc": "0001193125-26-402898",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-24",
-    "acc": "0001662205-26-000014",
-    "doc": "xslF345X06/wk-form4_1790280501.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -4580,6 +4580,20 @@
   "name": "Alphabet Inc.",
   "filings": [
    {
+    "form": "CERT",
+    "date": "2026-11-23",
+    "acc": "0001354457-26-001111",
+    "doc": "GOOG_8A_Cert_1652044.pdf",
+    "desc": "ALPHABET BONDS - NOVEMBER 2026"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-23",
+    "acc": "0001193125-26-470750",
+    "doc": "d115240d424b2.htm",
+    "desc": "424B2"
+   },
+   {
     "form": "8-A12B",
     "date": "2026-11-20",
     "acc": "0001193125-26-470391",
@@ -4844,20 +4858,6 @@
     "acc": "0001193125-26-393509",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-16",
-    "acc": "0001193125-26-393506",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-16",
-    "acc": "0001193125-26-393503",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
    }
   ]
  },
@@ -4865,6 +4865,13 @@
   "cik": "0001645590",
   "name": "Hewlett Packard Enterprise Co",
   "filings": [
+   {
+    "form": "8-K",
+    "date": "2026-11-23",
+    "acc": "0001645590-26-000097",
+    "doc": "hpe-20261123.htm",
+    "desc": "8-K"
+   },
    {
     "form": "4",
     "date": "2026-11-19",
@@ -5137,13 +5144,6 @@
     "acc": "0001655996-26-000009",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "3",
-    "date": "2026-06-03",
-    "acc": "0001655996-26-000008",
-    "doc": "xslF345X06/form3.xml",
-    "desc": "INITIAL STATEMENT OF BENEFICIAL OWNERSHIP OF SECURITIES"
    }
   ]
  },
@@ -6868,6 +6868,13 @@
   "name": "MICROCHIP TECHNOLOGY INC",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-23",
+    "acc": "0001959173-26-008203",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "4",
     "date": "2026-11-18",
     "acc": "0001181928-26-000042",
@@ -7139,13 +7146,6 @@
     "acc": "0001707073-26-000006",
     "doc": "xslF345X06/wk-form4_1787172897.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-19",
-    "acc": "0001182953-26-000002",
-    "doc": "xslF345X06/wk-form4_1787172783.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -7153,6 +7153,13 @@
   "cik": "0001326801",
   "name": "Meta Platforms, Inc.",
   "filings": [
+   {
+    "form": "8-K",
+    "date": "2026-11-23",
+    "acc": "0001628280-26-075541",
+    "doc": "meta-20261118.htm",
+    "desc": "8-K"
+   },
    {
     "form": "4",
     "date": "2026-11-19",
@@ -7424,13 +7431,6 @@
     "date": "2026-11-02",
     "acc": "0001921094-26-001133",
     "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "CERT",
-    "date": "2026-10-29",
-    "acc": "0001354457-26-001039",
-    "doc": "METAM_8A_Cert.pdf",
     "desc": ""
    }
   ]
@@ -11444,6 +11444,13 @@
   "name": "SEMTECH CORP",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-23",
+    "acc": "0000088941-26-000045",
+    "doc": "smtc-20261123.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-11-20",
     "acc": "0001628280-26-075250",
@@ -11715,13 +11722,6 @@
     "acc": "0001949846-26-000433",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-07-16",
-    "acc": "0001514954-26-000029",
-    "doc": "xslF345X06/wk-form4_1784232074.xml",
-    "desc": "FORM 4"
    }
   ]
  },
