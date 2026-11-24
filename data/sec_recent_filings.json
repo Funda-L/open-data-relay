@@ -290,6 +290,13 @@
   "name": "ANALOG DEVICES INC",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-24",
+    "acc": "0000006281-26-000087",
+    "doc": "adi-20261124.htm",
+    "desc": "8-K"
+   },
+   {
     "form": "4",
     "date": "2026-11-09",
     "acc": "0000006281-26-000084",
@@ -560,13 +567,6 @@
     "date": "2026-08-19",
     "acc": "0001768266-26-000007",
     "doc": "xslF345X06/wk-form4_1787170990.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-19",
-    "acc": "0001201872-26-000015",
-    "doc": "xslF345X06/wk-form4_1787170951.xml",
     "desc": "FORM 4"
    }
   ]
@@ -863,6 +863,13 @@
   "filings": [
    {
     "form": "144",
+    "date": "2026-11-24",
+    "acc": "0001959173-26-008243",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
     "date": "2026-11-23",
     "acc": "0001950047-26-011447",
     "doc": "xsl144X01/primary_doc.xml",
@@ -1133,13 +1140,6 @@
     "acc": "0001950047-26-008794",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-08-27",
-    "acc": "0001043298-26-000002",
-    "doc": "xslF345X06/wk-form4_1787862279.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -7441,6 +7441,13 @@
   "filings": [
    {
     "form": "144",
+    "date": "2026-11-24",
+    "acc": "0001280452-26-000025",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
+    "form": "144",
     "date": "2026-11-23",
     "acc": "0001280452-26-000023",
     "doc": "xsl144X01/primary_doc.xml",
@@ -7710,13 +7717,6 @@
     "date": "2026-06-03",
     "acc": "0001214659-26-007138",
     "doc": "xslF345X06/marketforms-73342.xml",
-    "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-02",
-    "acc": "0001214659-26-007088",
-    "doc": "xslF345X06/marketforms-73311.xml",
     "desc": "PRIMARY DOCUMENT"
    }
   ]
