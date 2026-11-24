@@ -4580,6 +4580,13 @@
   "name": "Alphabet Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-23",
+    "acc": "0001193125-26-472910",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "4"
+   },
+   {
     "form": "CERT",
     "date": "2026-11-23",
     "acc": "0001354457-26-001111",
@@ -4849,13 +4856,6 @@
     "form": "4",
     "date": "2026-09-16",
     "acc": "0001193125-26-393511",
-    "doc": "xslF345X06/ownership.xml",
-    "desc": "4"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-16",
-    "acc": "0001193125-26-393509",
     "doc": "xslF345X06/ownership.xml",
     "desc": "4"
    }
@@ -7154,6 +7154,13 @@
   "name": "Meta Platforms, Inc.",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-23",
+    "acc": "0001921094-26-001245",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "8-K",
     "date": "2026-11-23",
     "acc": "0001628280-26-075541",
@@ -7425,13 +7432,6 @@
     "acc": "0001628280-26-068935",
     "doc": "meta-20261102.htm",
     "desc": "DEF 14C"
-   },
-   {
-    "form": "144",
-    "date": "2026-11-02",
-    "acc": "0001921094-26-001133",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
@@ -7439,6 +7439,13 @@
   "cik": "0001280452",
   "name": "MONOLITHIC POWER SYSTEMS, INC.",
   "filings": [
+   {
+    "form": "144",
+    "date": "2026-11-23",
+    "acc": "0001280452-26-000023",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
    {
     "form": "4",
     "date": "2026-11-17",
@@ -7711,13 +7718,6 @@
     "acc": "0001214659-26-007088",
     "doc": "xslF345X06/marketforms-73311.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "144",
-    "date": "2026-06-01",
-    "acc": "0001950047-26-005349",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
