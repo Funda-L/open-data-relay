@@ -3722,6 +3722,20 @@
   "name": "Dell Technologies Inc.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-25",
+    "acc": "0002086800-26-000012",
+    "doc": "xslF345X06/wk-form4_1795615999.xml",
+    "desc": "FORM 4"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-25",
+    "acc": "0001662205-26-000025",
+    "doc": "xslF345X06/wk-form4_1795609639.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "8-K",
     "date": "2026-11-24",
     "acc": "0001571996-26-000050",
@@ -3985,20 +3999,6 @@
     "date": "2026-09-28",
     "acc": "0001232906-26-000004",
     "doc": "xslF345X06/wk-form4_1790626262.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-28",
-    "acc": "0001249303-26-000002",
-    "doc": "xslF345X06/wk-form4_1790626186.xml",
-    "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-28",
-    "acc": "0001082870-26-000008",
-    "doc": "xslF345X06/wk-form4_1790626100.xml",
     "desc": "FORM 4"
    }
   ]
@@ -7440,6 +7440,20 @@
   "name": "MONOLITHIC POWER SYSTEMS, INC.",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-25",
+    "acc": "0001214659-26-014740",
+    "doc": "xslF345X06/marketforms-74429.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
+    "form": "4",
+    "date": "2026-11-25",
+    "acc": "0001214659-26-014739",
+    "doc": "xslF345X06/marketforms-74430.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
+   {
     "form": "144",
     "date": "2026-11-24",
     "acc": "0001280452-26-000025",
@@ -7704,20 +7718,6 @@
     "acc": "0001214659-26-008236",
     "doc": "xslF345X06/marketforms-73526.xml",
     "desc": "PRIMARY DOCUMENT"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-06-12",
-    "acc": "0001628280-26-042820",
-    "doc": "mpwr-20260611.htm",
-    "desc": "8-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-06-03",
-    "acc": "0001214659-26-007138",
-    "doc": "xslF345X06/marketforms-73342.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
@@ -7725,6 +7725,13 @@
   "cik": "0000789019",
   "name": "MICROSOFT CORP",
   "filings": [
+   {
+    "form": "PX14A6G",
+    "date": "2026-11-25",
+    "acc": "0001214659-26-014752",
+    "doc": "w1125263px14a6g.htm",
+    "desc": ""
+   },
    {
     "form": "4",
     "date": "2026-11-16",
@@ -7995,13 +8002,6 @@
     "form": "4",
     "date": "2026-09-11",
     "acc": "0000789019-26-000201",
-    "doc": "xslF345X06/form4.xml",
-    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
-   },
-   {
-    "form": "4",
-    "date": "2026-09-11",
-    "acc": "0000789019-26-000200",
     "doc": "xslF345X06/form4.xml",
     "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
    }
@@ -10587,6 +10587,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-11-25",
+    "acc": "0001104659-26-132051",
+    "doc": "xslF345X06/tm2630620-1_4seq1.xml",
+    "desc": "OWNERSHIP DOCUMENT"
+   },
+   {
+    "form": "4",
     "date": "2026-11-17",
     "acc": "0001104659-26-129042",
     "doc": "xslF345X06/tm2630067-1_4seq1.xml",
@@ -10857,13 +10864,6 @@
     "acc": "0001104659-26-044438",
     "doc": "xslF345X06/tm2611948-1_4seq1.xml",
     "desc": "OWNERSHIP DOCUMENT"
-   },
-   {
-    "form": "SCHEDULE 13G/A",
-    "date": "2026-03-27",
-    "acc": "0000102909-26-002205",
-    "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
-    "desc": ""
    }
   ]
  },
