@@ -6868,6 +6868,13 @@
   "name": "MICROCHIP TECHNOLOGY INC",
   "filings": [
    {
+    "form": "4",
+    "date": "2026-11-25",
+    "acc": "0001452681-26-000049",
+    "doc": "xslF345X06/wk-form4_1795640923.xml",
+    "desc": "FORM 4"
+   },
+   {
     "form": "144",
     "date": "2026-11-23",
     "acc": "0001959173-26-008203",
@@ -7139,13 +7146,6 @@
     "acc": "0001452681-26-000033",
     "doc": "xslF345X06/wk-form4_1787173008.xml",
     "desc": "FORM 4"
-   },
-   {
-    "form": "4",
-    "date": "2026-08-19",
-    "acc": "0001707073-26-000006",
-    "doc": "xslF345X06/wk-form4_1787172897.xml",
-    "desc": "FORM 4"
    }
   ]
  },
@@ -7153,6 +7153,13 @@
   "cik": "0001326801",
   "name": "Meta Platforms, Inc.",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-11-25",
+    "acc": "0000950103-26-018246",
+    "doc": "xslF345X06/ownership.xml",
+    "desc": "FORM 4"
+   },
    {
     "form": "144",
     "date": "2026-11-23",
@@ -7425,13 +7432,6 @@
     "acc": "0001628280-26-068939",
     "doc": "meta2026informationstateme.htm",
     "desc": "DEFA14C"
-   },
-   {
-    "form": "DEF 14C",
-    "date": "2026-11-02",
-    "acc": "0001628280-26-068935",
-    "doc": "meta-20261102.htm",
-    "desc": "DEF 14C"
    }
   ]
  },
@@ -7439,6 +7439,13 @@
   "cik": "0001280452",
   "name": "MONOLITHIC POWER SYSTEMS, INC.",
   "filings": [
+   {
+    "form": "4",
+    "date": "2026-11-25",
+    "acc": "0001214659-26-014767",
+    "doc": "xslF345X06/marketforms-74428.xml",
+    "desc": "PRIMARY DOCUMENT"
+   },
    {
     "form": "4",
     "date": "2026-11-25",
@@ -7711,13 +7718,6 @@
     "acc": "0000315066-26-001456",
     "doc": "xslSCHEDULE_13G_X02/primary_doc.xml",
     "desc": ""
-   },
-   {
-    "form": "4",
-    "date": "2026-07-06",
-    "acc": "0001214659-26-008236",
-    "doc": "xslF345X06/marketforms-73526.xml",
-    "desc": "PRIMARY DOCUMENT"
    }
   ]
  },
@@ -13161,6 +13161,13 @@
   "filings": [
    {
     "form": "4",
+    "date": "2026-11-25",
+    "acc": "0001012975-26-001118",
+    "doc": "xslF345X06/form4.xml",
+    "desc": "STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES"
+   },
+   {
+    "form": "4",
     "date": "2026-11-24",
     "acc": "0001628280-26-075844",
     "doc": "xslF345X06/wk-form4_1795567826.xml",
@@ -13431,13 +13438,6 @@
     "acc": "0001193125-26-222903",
     "doc": "d130819d8k.htm",
     "desc": "8-K"
-   },
-   {
-    "form": "4",
-    "date": "2026-05-05",
-    "acc": "0002108537-26-000008",
-    "doc": "xslF345X06/form4-05052026_100523.xml",
-    "desc": ""
    }
   ]
  },
