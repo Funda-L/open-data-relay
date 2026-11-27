@@ -8870,6 +8870,13 @@
   "name": "Navitas Semiconductor Corp",
   "filings": [
    {
+    "form": "8-K",
+    "date": "2026-11-27",
+    "acc": "0001104659-26-132343",
+    "doc": "tm2630712d1_8k.htm",
+    "desc": "FORM 8-K"
+   },
+   {
     "form": "4",
     "date": "2026-11-06",
     "acc": "0001104659-26-124038",
@@ -9139,13 +9146,6 @@
     "form": "144",
     "date": "2026-05-28",
     "acc": "0001950047-26-005210",
-    "doc": "xsl144X01/primary_doc.xml",
-    "desc": ""
-   },
-   {
-    "form": "144",
-    "date": "2026-05-28",
-    "acc": "0001950047-26-005192",
     "doc": "xsl144X01/primary_doc.xml",
     "desc": ""
    }
