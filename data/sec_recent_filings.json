@@ -1434,6 +1434,13 @@
   "name": "AMPHENOL CORP /DE/",
   "filings": [
    {
+    "form": "144",
+    "date": "2026-11-27",
+    "acc": "0001950047-26-011585",
+    "doc": "xsl144X01/primary_doc.xml",
+    "desc": ""
+   },
+   {
     "form": "8-K",
     "date": "2026-11-24",
     "acc": "0001104659-26-131603",
@@ -1705,13 +1712,6 @@
     "acc": "0001104659-26-066890",
     "doc": "xslF345X06/tm2615640-1_4seq1.xml",
     "desc": "OWNERSHIP DOCUMENT"
-   },
-   {
-    "form": "8-K",
-    "date": "2026-05-22",
-    "acc": "0001104659-26-065682",
-    "doc": "tm2615386d1_8k.htm",
-    "desc": "FORM 8-K"
    }
   ]
  },
